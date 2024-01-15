@@ -2,25 +2,25 @@
 {"dg-publish":true,"permalink":"/core-rules/character-sheet/resting/"}
 ---
 
-### Rest Definition: 
-- A period of time of light activity taken to regain energy and wits. 
-	- Light activity cannot contain skill checks that involve high activity and stress. For example, crafting checks using might, highly stressful mental situations, or anything that might exert high amounts of energy as determined by the [[TTRPG Basics/GM\|GM]].
-	- Light activity can contain skill checks of low activity or stress. For example, bartering with a merchant, crafting checks that are low stress such as weaving or cooking, or anything that exerts low energy and stress as determined by the [[TTRPG Basics/GM\|GM]].
+## Rest Definition
+A period of light activity, called a Rest, is used by characters to regain energy and wits. During this time, a character can perform low-stress activities like crafting or bartering but not high-stress ones like combat or intense mental tasks.
 
-- #### Full-Rest
-	- This is a Rest that takes a full day. Anyone who completes a full-rest can gain the following.
-		- Spend [[Skill Points\|Skill Points]]
-		- Restore their [[Core Rules/Character Sheet/Hit Points\|Hit Points]] to full
-		- Refresh any [[Core Rules/Skills/Skills\|Skills]] that have a full-rest or lower refresh.
-- #### Half-Rest
-	- This is a Rest that takes at least 6 hours and half-rests are only effective for 1 week before a full-rest is needed.
-	- Anyone who completes a half rest can gain the following.
-		- Restore their Hit Points equal to their [[Core Rules/Skills/Skills\|Skills]] in Vitality
-		- Refresh any [[Core Rules/Skills/Skills\|Skills]] that have a half-rest or lower refresh.
-- #### Break
-	- This is a Rest that takes at least 1 hour and breaks are only effective for a full day before a half-rest is needed. 
-	- Anyone who completes a break can gain the following.
-		- Refresh any [[Core Rules/Skills/Skills\|Skills]] that have a break refresh.
+There are three types of rests: Full-Rest, Half-Rest, and Break. 
+Higher levels of rest are counted towards any requirements for lower levels of rest.
 
-### Not Resting
-***All*** characters need to rest every now and then. Characters must take at least 1 half-rest every full day or suffer 1 rank of [[Core Rules/Conditions/Conditions#^6ea920\|exhausted]].
+### Full-Rest
+A Full-Rest takes a full day, (usually 24 hours)
+[[TTRPG Basics/Character\|Characters]] can spend [[Core Rules/Ranks/Rank Points\|Rank Points]], restore [[Core Rules/Character Sheet/Hit Points\|Hit Points]] to their maximum.
+
+### Half-Rest
+A Half-Rest, takes at least 6 hours.
+[[TTRPG Basics/Character\|Characters]] can restore Hit Points equal to their [[Core Rules/Ranks/Ranks\|Ranks]] in Vitality.
+
+Characters have a number of half rests available to use equal to their ranks in Will. Once a character has used all of their Half-Rests they must take a Full-Rest to regain them.
+
+### Break
+A Break, taking at least one hour.
+A break has no direct benefits except to take time to shrug off certain conditions, effects, or to refresh skills.
+
+### **NOT** Resting
+All characters must take at least one Half-Rest every full day or else they will suffer one rank of the [[Core Rules/Conditions/Exhausted\|Exhausted]] [[Core Rules/Conditions/Conditions\|condition]].
