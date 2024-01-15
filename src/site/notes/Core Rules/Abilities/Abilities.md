@@ -20,7 +20,7 @@ This is the ability to see the unseen or understand emotions. This is unconsciou
 This is the conscious will to live. The driving force in everyone to keep moving forward.
 
 ### Ranking Up Abilities
-Whenever a character spends [[Core Rules/Ranks/Rank Points\|Rank Points]] during a [[Core Rules/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Skills/Skills\|Skills]].
+Whenever a character spends [[Core Rules/Ranks/Rank Points\|Rank Points]] during a [[Core Rules/Character Sheet/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Skills/Skills\|Skills]].
 
 Abilities cost a number of [[Core Rules/Ranks/Rank Points\|Rank Points]] equal to the rank being purchased. Abilities must be increased in [[Core Rules/Ranks/Ranks\|Ranks]] in order.
 
