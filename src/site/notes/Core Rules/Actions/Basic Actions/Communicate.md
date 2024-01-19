@@ -3,7 +3,7 @@
 ---
 
 ### Description
-A character may use the Communicate [[Core Rules/Actions/Actions\|action]] to talk to other characters quickly or to try and change the [[Core Rules/Character Sheet/Disposition\|Disposition]] of other characters.
+A character may use the Communicate [[Core Rules/Actions\|action]] to talk to other characters quickly or to try and change the [[Core Rules/Character Sheet/Disposition\|Disposition]] of other characters.
 
 #### Using Communicate
 - A Character uses Communicate to relay information, their [[Core Rules/Turn Time/Turn Timer\|Turn Timer]] is frozen until the information is completed. 
