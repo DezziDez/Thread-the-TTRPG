@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/abilities/ability-checks/"}
 ---
 
-When making an ability check, a character combines two relevant [[Core Rules/Abilities/Abilities\|Abilities]] and rolls dice for them based on their [[Core Rules/Ranks/Ranks\|Ranks]]. The result of the roll is added together.
+When making an ability check, a character combines two relevant [[Core Rules/Abilities\|Abilities]] and rolls dice for them based on their [[Core Rules/Ranks\|Ranks]]. The result of the roll is added together.
 
 For example, if a character wants to make a Perception check, they might need to roll Agility + Insight. If they have 1d6 in agility and 1d4 in insight, they would roll 1d6+1d4 for the result.
 
