@@ -6,7 +6,7 @@ Requirements: None
 Refresh: None
 
 Effects:
-You gain access to the Charge [[Core Rules/Actions/Actions\|action]].
+You gain access to the Charge [[Core Rules/Actions\|action]].
 
 Charge (Stamina Cost: 4)
 You can [[Core Rules/Actions/Basic Actions/Move\|Move]] up to your [[Core Rules/Positioning/Speed\|Speed]] in a straight line. 
