@@ -5,13 +5,13 @@
 A critical or crit is an extreme of high or lows that drives tension and adds potential swingy-ness to a game.
 
 ## Critical Success
-A critical success is when an [[Core Rules/Abilities/Ability Checks\|ability check]] or an [[Core Rules/Actions/Basic Actions/Attack\|Attack]] is made and both dice land on their maximum value. When this happens, the total roll is doubled, potentially making the roll a success or dealing twice as much [[Core Rules/Damage/Damage\|Damage]] if that roll was an [[Core Rules/Actions/Basic Actions/Attack\|Attack]].
+A critical success is when an [[Core Rules/Abilities/Ability Checks\|ability check]] or an [[Core Rules/Actions/Basic Actions/Attack\|Attack]] is made and both dice land on their maximum value. When this happens, the total roll is doubled, potentially making the roll a success or dealing twice as much [[Core Rules/Damage\|Damage]] if that roll was an [[Core Rules/Actions/Basic Actions/Attack\|Attack]].
 
 Some additional event may occur due to a critical success based on the situation. This is known as a brutal critical success and it is up to the [[TTRPG Basics/GM\|GM]] to determine the outcome of the great success.
 
 
 ## Critical Failure
-A critical failure is when an [[Core Rules/Abilities/Ability Checks\|ability check]] or an [[Core Rules/Actions/Basic Actions/Attack\|Attack]] is made and both dice land on 1. When this happens the check automatically fails and no [[Core Rules/Damage/Damage\|Damage]] is dealt if that roll was an [[Core Rules/Actions/Basic Actions/Attack\|Attack]].
+A critical failure is when an [[Core Rules/Abilities/Ability Checks\|ability check]] or an [[Core Rules/Actions/Basic Actions/Attack\|Attack]] is made and both dice land on 1. When this happens the check automatically fails and no [[Core Rules/Damage\|Damage]] is dealt if that roll was an [[Core Rules/Actions/Basic Actions/Attack\|Attack]].
 
 Some additional event may occur due to a critical failure based on the situation. This is known as a brutal critical fail and it is up to the [[TTRPG Basics/GM\|GM]] to determine the outcome of the great failure.
 
