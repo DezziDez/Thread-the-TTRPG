@@ -12,7 +12,7 @@ If a character wishes to perform more than 1 free action in a round, they must e
 ## Example Free Actions
 - Equipping or Unequipping an item.
 - Studying another Character to gain information.
-- Taking a [[Core Rules/Actions/Actions#Step\|Step]]. (This also triggers a step allowing you to move 2 [[Core Rules/Positioning/Tiles\|tiles]] total)
+- Taking a [[Core Rules/Actions#Step\|Step]]. (This also triggers a step allowing you to move 2 [[Core Rules/Positioning/Tiles\|tiles]] total)
 - Using an item or object in the environment or that is equipped.
 - Reloading a ranged weapon.
 - A quick shout to another Character.
