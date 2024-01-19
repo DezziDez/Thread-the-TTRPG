@@ -13,7 +13,7 @@ Items can take up slots as follows:
 1 slot sized: These items are of average size and/or weight and can easily be held in 1 hand.
 2 slot sized: These items are above average in size and/or weight and requires 2 hands to be held.
 3 slot sized: These items are extremely large and/or heavy. Giving 1 Rank of the [[Core Rules/Conditions/Slowed\|Slowed]] condition to any character carrying it.
-4 slot sized: These items can only be lifted temporarily. A character lifting an item such as this has the [[Core Rules/Conditions/Immobilized\|Immobilized]] [[Core Rules/Conditions/Conditions\|condition]] if they do not have [[Core Rules/Actions/Basic Actions/Help\|Help]] from another character.
+4 slot sized: These items can only be lifted temporarily. A character lifting an item such as this has the [[Core Rules/Conditions/Immobilized\|Immobilized]] [[Core Rules/Conditions\|condition]] if they do not have [[Core Rules/Actions/Basic Actions/Help\|Help]] from another character.
 
 ### Size Changes
 The amount of space an item takes up increases or decreases based on the [[Core Rules/Positioning/Sizes\|size]] of the Character.
