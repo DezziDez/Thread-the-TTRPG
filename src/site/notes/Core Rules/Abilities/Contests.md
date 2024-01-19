@@ -6,7 +6,7 @@
 
 A contest with another character involves two characters making [[Core Rules/Abilities/Ability Checks\|Ability Checks]], For instance, 1 character might roll Insight+Intellect to detect if another person is lying, while the opposing character rolls Insight+Will to maintain their deception.
 
-Contests with the environment are much more common. In contests with the environment, the GM determines a difficulty level or [[Core Rules/Ranks/Ranks\|rank]] of the contest and rolls dice accordingly. The character must now compete against the result of the roll. Difficulty levels range from Trivial to Extreme. If a more solid number is desired, the average of the rolls can be used.
+Contests with the environment are much more common. In contests with the environment, the GM determines a difficulty level or [[Core Rules/Ranks\|rank]] of the contest and rolls dice accordingly. The character must now compete against the result of the roll. Difficulty levels range from Trivial to Extreme. If a more solid number is desired, the average of the rolls can be used.
 
 |Rank| Difficulty                   | Die                        | Solid Number          |
 |--| ---------------------------- | -------------------------- | --------------------- |
