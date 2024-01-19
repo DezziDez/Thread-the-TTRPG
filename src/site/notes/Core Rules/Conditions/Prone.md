@@ -8,4 +8,4 @@ Ranged attacks against you suffer a [[Core Rules/Abilities/Advantage and Disadva
 Melee attacks against you gain an [[Core Rules/Abilities/Advantage and Disadvantage\|advantage]]
 You suffer 1 rank of the [[Core Rules/Conditions/Slowed\|Slowed]] condition.
 
-See the [[Core Rules/Actions/Basic Actions/Move\|Move]] [[Core Rules/Actions/Actions\|action]] for removing Prone.
+See the [[Core Rules/Actions/Basic Actions/Move\|Move]] [[Core Rules/Actions\|action]] for removing Prone.
