@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/positioning/area-of-effect/"}
 ---
 
-Some Item [[Core Rules/Items/Properties/Properties\|Properties]] or [[Core Rules/Skills/Skills\|Skills]] have areas of effect (AOE). These areas are defined as follows:
+Some Item [[Core Rules/Items/Properties/Properties\|Properties]] or [[Core Rules/Skills\|Skills]] have areas of effect (AOE). These areas are defined as follows:
 ### Radius Sphere
 A Radius Sphere is a sphere or bubble that is defined by a center point and a radius (a radius being half the diameter, or the distance across the sphere).
 
