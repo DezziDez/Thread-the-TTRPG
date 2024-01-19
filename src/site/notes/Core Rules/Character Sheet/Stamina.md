@@ -7,12 +7,12 @@ Stamina is the fuel and energy for every character.
 The maximum amount of Stamina a character has is easily represented by taking two dice of a value equal to the die value of the Characters Will. 
 For example, if a character has 2 ranks in Will, then that character represents their Stamina with 2d4 set to their maximum value, 8 is the maximum Stamina in this case. Subtracting Stamina is done by decreasing the value on the dice.
 
-Stamina is consumed whenever a character uses an action or takes [[Core Rules/Damage/Damage\|Damage]].
+Stamina is consumed whenever a character uses an action or takes [[Core Rules/Damage\|Damage]].
 
 Stamina is reset back to its maximum value at the beginning of the character's turn and actions taken on any previous turn no longer effect the cost of actions made on the new turn.
 
 ## Actions and Rollover
-Taking an [[Core Rules/Actions/Actions\|action]] consumes Stamina based on the action. 
+Taking an [[Core Rules/Actions\|action]] consumes Stamina based on the action. 
 
 The cost of subsequent actions increases by adding the prior action's base cost. This is known as Rollover.
 
