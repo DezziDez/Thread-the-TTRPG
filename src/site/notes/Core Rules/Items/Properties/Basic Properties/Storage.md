@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/core-rules/items/properties/basic-properties/storage/"}
 ---
 
-- This item is able to store twice as many items as the [[Core Rules/Inventory/Slots\|slot]] size of the item.
-- Items stored inside this item do not increase the [[Core Rules/Inventory/Slots\|slot]] size of the storage item.
-- A [[Core Rules/Actions/Free Actions\|Free Action]] is required to add or remove items from this Storage item.
-- This item must be [[Core Rules/Inventory/Equipped\|Equipped]] to open it. Characters can open this item while it is an [[Core Rules/Inventory/Accessories\|Accessory]] on another Character.
-- This item is either Hard or Soft.
+- This [[Core Rules/Items\|Item]] is able to store twice as many [[Core Rules/Items\|Items]] as the [[Core Rules/Inventory/Slots\|slot]] size of the [[Core Rules/Items\|Item]].
+- [[Core Rules/Items\|Items]] stored inside this [[Core Rules/Items\|Item]] do not increase the [[Core Rules/Inventory/Slots\|slot]] size of the storage [[Core Rules/Items\|Item]].
+- A [[Core Rules/Actions/Free Actions\|Free Action]] is required to add or remove [[Core Rules/Items\|Items]] from this Storage [[Core Rules/Items\|Item]].
+- This [[Core Rules/Items\|Item]] must be [[Core Rules/Inventory/Equipped\|Equipped]] to open it. [[TTRPG Basics/Character\|Characters]] can open this [[Core Rules/Items\|Item]] while it is an [[Core Rules/Inventory/Accessories\|Accessory]] on another Character.
+- This [[Core Rules/Items\|Item]] is either Hard or Soft.
