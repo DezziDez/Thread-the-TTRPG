@@ -7,5 +7,5 @@ Refresh: None
 
 Effects:
 Your speed is increased by 4 tiles.
-Going prone now only costs 1 tiles of speed.
-Standing up from prone now only costs 2 tiles of speed.
+Going prone now only costs 1 [[Core Rules/Positioning/Tiles\|Tiles]] of speed.
+Standing up from prone now only costs 2 [[Core Rules/Positioning/Tiles\|Tiles]] of speed.
