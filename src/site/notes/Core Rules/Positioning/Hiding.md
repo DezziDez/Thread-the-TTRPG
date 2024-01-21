@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/core-rules/positioning/hiding/"}
 ---
 
-If a character cannot be seen and another character is not aware of where they are, then that character is considered Hidden from the other character.
+If a [[TTRPG Basics/Character\|Character]] cannot be seen and another [[TTRPG Basics/Character\|Character]] is not aware of where they are, then that [[TTRPG Basics/Character\|Character]] is considered Hidden from the other character.
 
-If another character is Hidden, then as long as the Character remains hidden, then the character that is not aware of the Hidden character cannot local them without actively searching.
+If another [[TTRPG Basics/Character\|Character]] is Hidden, then as long as the [[TTRPG Basics/Character\|Character]] remains hidden, then the [[TTRPG Basics/Character\|Character]] that is not aware of the Hidden [[TTRPG Basics/Character\|Character]] cannot local them without actively searching.
 
-Additionally, A Hidden character has an [[Core Rules/Abilities/Advantage and Disadvantage\|advantage]] against other characters not aware of them.
+Additionally, A Hidden [[TTRPG Basics/Character\|Character]] has an [[Core Rules/Abilities/Advantage and Disadvantage\|advantage]] against other [[TTRPG Basics/Character\|Characters]] not aware of them.
