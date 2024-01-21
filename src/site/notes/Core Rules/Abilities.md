@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/abilities/"}
 ---
 
-All characters possess natural abilities in six forms: Might, Agility, Vitality, Intellect, Insight, and Will. These abilities are rated from [[Core Rules/Ranks\|rank]] 1 to [[Core Rules/Ranks\|rank]] 6, with higher ranks indicating greater proficiency.
+All [[TTRPG Basics/Character\|Characters]] possess natural abilities in six forms: Might, Agility, Vitality, Intellect, Insight, and Will. These abilities are rated from [[Core Rules/Ranks\|rank]] 1 to [[Core Rules/Ranks\|rank]] 6, with higher ranks indicating greater proficiency.
 
 Abilities are used to make [[Core Rules/Abilities/Ability Checks\|Ability Checks]] or to perform certain [[Core Rules/Actions\|Actions]].
 
@@ -20,8 +20,8 @@ This is the ability to see the unseen or understand emotions. This is unconsciou
 This is the conscious will to live. The driving force in everyone to keep moving forward.
 
 ### Ranking Up Abilities
-Whenever a character spends [[Core Rules/Rank Points\|Rank Points]] during a [[Core Rules/Character Sheet/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Skills\|Skills]].
+Whenever a [[TTRPG Basics/Character\|Character]] spends [[Core Rules/Rank Points\|Rank Points]] during a [[Core Rules/Character Sheet/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Skills\|Skills]].
 
 Abilities cost a number of [[Core Rules/Rank Points\|Rank Points]] equal to the rank being purchased. Abilities must be increased in [[Core Rules/Ranks\|Ranks]] in order.
 
-For example, if a character wishes to increase Agility from rank 2 to rank 3, then that character must spend 3 rank points.
+For example, if a [[TTRPG Basics/Character\|Character]] wishes to increase Agility from rank 2 to rank 3, then that [[TTRPG Basics/Character\|Character]] must spend 3 rank points.
