@@ -7,13 +7,13 @@ Thread is an open source TTRPG connected together into a series of pages using O
 Thread is designed with Creativity, Modularity, Emergence, and Simplicity in mind. There are only have a few hard rules in Thread that you should always follow.
 1. **Change It!** The system is designed to be altered. Put rules in, take rules out, or change them into something else. Nothing is marked as optional because everything is optional.
 2. **Make it!** If the rules don't support what you want, make your own! The system is completely modular and open-source, so add anything you like and even share it with the world.
-3. **Break it!** Whether player or game master, do whatever you want. The system wants to be bent and broken. Go wild and make the craziest of characters, encounters, items, beasts, or whatever insanity you can come up with.
+3. **Break it!** Whether player or game master, do whatever you want. The system wants to be bent and broken. Go wild and make the craziest of [[TTRPG Basics/Character\|Characters]], encounters, items, beasts, or whatever insanity you can come up with.
 
 Thread can be navigated by selecting [[Thread\|Threads]] or Links sprinkled throughout the document. On the left of the document is a navigation hierarchy to more directly navigate.
 
 There is also a search function that is very useful for finding anything specific.
 
-Thread is entirely setting agnostic. Allowing you to use the system in any world for any characters. There is also explicitly no flavor added to any skills, only mechanics. This is to reduce the number of characters in skills to reduce confusion and reading. But, it is also to have as little restrictions on the potential flavor of the skills. Thread will never tell you how to interpret anything.
+Thread is entirely setting agnostic. Allowing you to use the system in any world for any [[TTRPG Basics/Character\|Characters]]. There is also explicitly no flavor added to any skills, only mechanics. This is to reduce the number of characters in [[Core Rules/Skills\|Skills]] to reduce confusion and reading. But, it is also to have as little restrictions on the potential flavor of the skills. Thread will never tell you how to interpret anything.
 
 
 ## Mission Statement
@@ -27,3 +27,7 @@ Setting agnostic, Modular, no restrictions. That is what I have wanted in a syst
 This project has been one of the more difficult and time consuming things I've done. And I've done some hard things. So I genuinely hope you enjoy what I have made.
 
 -DezziDez
+
+
+#### Credits
+All of the TTRPGs that I have played and learned from in the past. There are too many to list here.
