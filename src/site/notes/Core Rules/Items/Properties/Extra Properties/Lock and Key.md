@@ -4,5 +4,5 @@
 
 Requirements: None
 
-- This item possesses a lock and a key that keeps the item from being opened without the key.
-- The difficulty of this lock is equal to the crafting ability check to craft the lock.
+- This [[Core Rules/Items\|Item]] possesses a lock and a key that keeps the [[Core Rules/Items\|Item]] from being opened without the key.
+- The difficulty of this lock is equal to the [[Core Rules/Items/Crafting\|crafting]] [[Core Rules/Abilities/Ability Checks\|ability check]] to craft the lock.
