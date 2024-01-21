@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/core-rules/abilities/ability-checks/"}
 ---
 
-When making an ability check, a character combines two relevant [[Core Rules/Abilities\|Abilities]] and rolls dice for them based on their [[Core Rules/Ranks\|Ranks]]. The result of the roll is added together.
+When making an ability check, a [[TTRPG Basics/Character\|Character]] combines two relevant [[Core Rules/Abilities\|Abilities]] and rolls dice for them based on their [[Core Rules/Ranks\|Ranks]]. The result of the roll is added together.
 
-For example, if a character wants to make a Perception check, they might need to roll Agility + Insight. If they have 1d6 in agility and 1d4 in insight, they would roll 1d6+1d4 for the result.
+For example, if a [[TTRPG Basics/Character\|Character]] wants to make a Perception check, they might need to roll Agility + Insight. If they have 1d6 in agility and 1d4 in insight, they would roll 1d6+1d4 for the result.
 
-See below for **examples** of different ability checks and their meanings. The GM decides which check is needed in each situation, and has the final say. Even if a specific check is mentioned in an action, the GM can change it as they see fit.
+See below for **examples** of different ability checks and their meanings. The [[TTRPG Basics/GM\|GM]] decides which check is needed in each situation, and has the final say. Even if a specific check is mentioned in an action, the [[TTRPG Basics/GM\|GM]] can change it as they see fit.
 
 ### Ability Check Table
 | Ability 1 | Ability 2 | Type of Check                                     |
