@@ -6,4 +6,4 @@ Requirements: [[Core Rules/Skills/Agility/Rank 5/Movement 5\|Movement 5]]
 Refresh: None
 
 Effects:
-The [[Core Rules/Actions/Basic Actions/Move\|Move]] action costs 1 stamina instead of 2.
+The [[Core Rules/Actions/Basic Actions/Move\|Move]] [[Core Rules/Actions\|Action]] costs 1 stamina instead of 2.
