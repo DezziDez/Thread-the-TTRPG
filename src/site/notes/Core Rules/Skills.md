@@ -3,25 +3,25 @@
 ---
 
 ## What are Skills
-Skills are the main access to power and ability in Thread. Instead of having a standard set way of play, Thread offers the ability to mix and match skills to make unique characters of any kind.
+[[Core Rules/Skills\|Skills]] are the main access to power and ability in [[Thread\|Thread]]. Instead of having a standard set way of play, [[Thread\|Thread]] offers the ability to mix and match [[Core Rules/Skills\|Skills]] to make unique [[TTRPG Basics/Character\|Characters]] of any kind.
 
 ## Purchasing Skills
-Whenever a [[TTRPG Basics/Character\|Character]] spends [[Core Rules/Rank Points\|Rank Points]] during a [[Core Rules/Character Sheet/Resting#Full-Rest\|Full-Rest]] they may purchase a skill instead of increase the [[Core Rules/Ranks\|Ranks]] of [[Core Rules/Abilities\|Abilities]].
+Whenever a [[TTRPG Basics/Character\|Character]] spends [[Core Rules/Rank Points\|Rank Points]] during a [[Core Rules/Character Sheet/Resting#Full-Rest\|Full-Rest]] they may purchase a [[Core Rules/Skills\|Skill]] instead of increase the [[Core Rules/Ranks\|Ranks]] of [[Core Rules/Abilities\|Abilities]].
 
-Every skill is associated with an [[Core Rules/Abilities\|ability]]. When a character wishes to purchase a skill they must have a number of [[Core Rules/Ranks\|Ranks]] in the associated [[Core Rules/Abilities\|ability]] to equal the rank of the skill that Character wishes to take.
+Every [[Core Rules/Skills\|Skill]] is associated with an [[Core Rules/Abilities\|ability]]. When a [[TTRPG Basics/Character\|Character]] wishes to purchase a [[Core Rules/Skills\|Skill]] they must have a number of [[Core Rules/Ranks\|Ranks]] in the associated [[Core Rules/Abilities\|ability]] to equal the rank of the [[Core Rules/Skills\|Skill]] that [[TTRPG Basics/Character\|Character]] wishes to take.
 
-For example, if a character wishes to purchase a Rank 3 skill in Agility, that character must first have at least 3 [[Core Rules/Ranks\|Ranks]] in the Agility [[Core Rules/Abilities\|ability]].
+For example, if a [[TTRPG Basics/Character\|Character]] wishes to purchase a Rank 3 [[Core Rules/Skills\|Skill]] in Agility, that [[TTRPG Basics/Character\|Character]] must first have at least 3 [[Core Rules/Ranks\|Ranks]] in the Agility [[Core Rules/Abilities\|ability]].
 
-The character must then spend a number of [[Core Rules/Rank Points\|Rank Points]] equal to the Rank of the skill plus the number of skills the character has in that [[Core Rules/Abilities\|ability]].
+The [[TTRPG Basics/Character\|Character]] must then spend a number of [[Core Rules/Rank Points\|Rank Points]] equal to the Rank of the [[Core Rules/Skills\|Skill]] plus the number of [[Core Rules/Skills\|Skills]] the [[TTRPG Basics/Character\|Character]] has in that [[Core Rules/Abilities\|ability]].
 
-For example, if a character has 3 skills and wishes to purchase a rank 2 skill. They must spend 5 [[Core Rules/Rank Points\|Rank Points]] to purchase it.
+For example, if a [[TTRPG Basics/Character\|Character]] has 3 [[Core Rules/Skills\|Skills]] and wishes to purchase a rank 2 skill. They must spend 5 [[Core Rules/Rank Points\|Rank Points]] to purchase it.
 
 ## Requirements
-Some skills have requirements, usually other skills, before that skill can be taken. These skills are marked with their requirements at the top of their description.
+Some [[Core Rules/Skills\|Skills]] have requirements, usually other skills, before that [[Core Rules/Skills\|Skill]] can be taken. These [[Core Rules/Skills\|Skills]] are marked with their requirements at the top of their description.
 
 ## Refresh
-Some skills can only be used a certain number of times before they need to be refreshed. The skill will describe the conditions for a refresh but this is usually performed during [[Core Rules/Character Sheet/Resting\|Resting]].
+Some [[Core Rules/Skills\|Skills]] can only be used a certain number of times before they need to be refreshed. The [[Core Rules/Skills\|Skill]] will describe the conditions for a refresh but this is usually performed during [[Core Rules/Character Sheet/Resting\|Resting]].
 
-A skill may have a variable number of uses before a refresh. These are usually based on the number of ranks of the associated [[Core Rules/Abilities\|ability]] and a multiplier.
+A [[Core Rules/Skills\|Skill]] may have a variable number of uses before a refresh. These are usually based on the number of ranks of the associated [[Core Rules/Abilities\|ability]] and a multiplier.
 
-For example, 2xMight / [[Core Rules/Character Sheet/Resting#Break\|Break]] would be 2 times the number of [[Core Rules/Ranks\|Ranks]] in Might of the character for every [[Core Rules/Character Sheet/Resting#Break\|Break]].
+For example, 2xMight / [[Core Rules/Character Sheet/Resting#Break\|Break]] would be 2 times the number of [[Core Rules/Ranks\|Ranks]] in Might of the [[TTRPG Basics/Character\|Character]] for every [[Core Rules/Character Sheet/Resting#Break\|Break]].
