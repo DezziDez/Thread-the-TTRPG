@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/turn-time/events/"}
 ---
 
-An event is anything that might need careful planning or swift action by the characters involved. An event is broken down into [[Core Rules/Turn Time/Rounds\|Rounds]] and the length of an event is only as long as the number of [[Core Rules/Turn Time/Rounds\|Rounds]] it takes before the event ends.
+An event is anything that might need careful planning or swift [[Core Rules/Actions\|Action]] by the [[TTRPG Basics/Character\|Characters]] involved. An event is broken down into [[Core Rules/Turn Time/Rounds\|Rounds]] and the length of an event is only as long as the number of [[Core Rules/Turn Time/Rounds\|Rounds]] it takes before the event ends.
 
 Common events are combat, timed challenges/puzzles, complex social encounters, or dangerous environments.
 
