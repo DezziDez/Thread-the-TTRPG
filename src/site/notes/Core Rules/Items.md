@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/items/"}
 ---
 
-Items are objects that characters can [[Core Rules/Actions\|use]], [[Core Rules/Inventory/Equipped\|equip]], and [[Core Rules/Inventory/Accessories\|store]]. All items can be broken down into a list of [[Core Rules/Items/Properties/Properties\|properties]] that described how the item functions. The number of properties an item can have is determined by the [[Core Rules/Ranks\|rank]] of the item. An item has a number of properties equal to the rank of the item.
+[[Core Rules/Items\|Items]] are objects that [[TTRPG Basics/Character\|Characters]] can [[Core Rules/Actions\|use]], [[Core Rules/Inventory/Equipped\|equip]], and [[Core Rules/Inventory/Accessories\|store]]. All [[Core Rules/Items\|Items]] can be broken down into a list of [[Core Rules/Items/Properties/Properties\|properties]] that described how the [[Core Rules/Items\|Item]] functions. The number of properties an [[Core Rules/Items\|Item]] can have is determined by the [[Core Rules/Ranks\|rank]] of the [[Core Rules/Items\|Item]]. An [[Core Rules/Items\|Item]] has a number of properties equal to the rank of the [[Core Rules/Items\|Item]].
 
-Items can also be [[Core Rules/Items/Crafting\|crafted]] while a character is [[Core Rules/Character Sheet/Resting\|Resting]] to make unique items or to gain other resources.
+[[Core Rules/Items\|Items]] can also be [[Core Rules/Items/Crafting\|crafted]] while a [[TTRPG Basics/Character\|Character]] is [[Core Rules/Character Sheet/Resting\|Resting]] to make unique [[Core Rules/Items\|Items]] or to gain other resources.
