@@ -6,4 +6,4 @@ Requirements: None
 Refresh: None
 
 Effects:
-Your speed is increased by 4 tiles.
+Your [[Core Rules/Positioning/Speed\|speed]] is increased by 4 [[Core Rules/Positioning/Tiles\|tiles]].
