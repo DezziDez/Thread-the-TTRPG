@@ -6,6 +6,6 @@ Requirements: [[Core Rules/Skills/Agility/Rank 1/Movement 1\|Movement 1]]
 Refresh: None
 
 Effects:
-Your speed is increased by 4 tiles.
-Going prone now only costs 1 [[Core Rules/Positioning/Tiles\|Tiles]] of speed.
-Standing up from prone now only costs 2 [[Core Rules/Positioning/Tiles\|Tiles]] of speed.
+Your [[Core Rules/Positioning/Speed\|Speed]] is increased by 4 [[Core Rules/Positioning/Tiles\|Tiles]].
+Going [[Core Rules/Conditions/Prone\|Prone]] now only costs 1 [[Core Rules/Positioning/Tiles\|Tiles]] of [[Core Rules/Positioning/Speed\|Speed]].
+Standing up from [[Core Rules/Conditions/Prone\|prone]] now only costs 2 [[Core Rules/Positioning/Tiles\|Tiles]] of [[Core Rules/Positioning/Speed\|Speed]].
