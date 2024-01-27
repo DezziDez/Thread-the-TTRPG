@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/insight/rank-2/deceit-2/"}
 ---
 
-Requirements: [[Core Rules/Skills/Insight/Rank 1/Deciet 1\|Deciet 1]]
+Requirements: [[Core Rules/Skills/Insight/Rank 1/Deceit 1\|Deceit 1]]
 Refresh: None
 
 Effects:
