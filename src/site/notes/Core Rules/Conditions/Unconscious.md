@@ -4,4 +4,4 @@
 
 - You are [[Core Rules/Conditions/Prone\|Prone]].
 - You are [[Core Rules/Conditions/Deafened\|Deafened]].
-- You are [[Core Rules/Conditions/Blinded\|Blinded]].
+- You are [[Core Rules/Conditions/Blinded\|Core Rules/Conditions/Blinded]].
