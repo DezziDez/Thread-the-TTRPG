@@ -3,7 +3,7 @@
 ---
 
 ### Description
-Manipulation is used to use force to move objects or other [[TTRPG Basics/Character\|Characters]].
+Manipulation is used to use force to [[Core Rules/Actions/Basic Actions/Move\|Move]] objects or other [[TTRPG Basics/Character\|Characters]].
 
 #### Using Manipulate
 - A [[TTRPG Basics/Character\|Character]] selects an object or [[TTRPG Basics/Character\|Character]] that is not more than 1 [[Core Rules/Positioning/Sizes\|size]] larger than themselves to move. 
@@ -12,4 +12,4 @@ Manipulation is used to use force to move objects or other [[TTRPG Basics/Charac
 - Successfully moving the object or [[TTRPG Basics/Character\|Character]] moves them 1 tile in any direction.
 
 ### Notes
-Using manipulate to move a [[TTRPG Basics/Character\|Character]] down can force a [[TTRPG Basics/Character\|Character]] to become [[Core Rules/Conditions/Prone\|Prone]].
+Using manipulate to [[Core Rules/Actions/Basic Actions/Move\|Move]] a [[TTRPG Basics/Character\|Character]] down can force a [[TTRPG Basics/Character\|Character]] to become [[Core Rules/Conditions/Prone\|Prone]].
