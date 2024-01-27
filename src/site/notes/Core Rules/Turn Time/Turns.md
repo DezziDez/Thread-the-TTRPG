@@ -16,7 +16,7 @@ Middle of the Character's Turn:
 - The [[TTRPG Basics/Character\|Character]] uses [[Core Rules/Actions\|Actions]] to effect the situation.
 
 End of the Character's Turn:
-- Stop the [[Turn Timer.\|Turn Timer.]]
+- Stop the [[Core Rules/Turn Time/Turn Timer\|Turn Timer]].
 - A [[TTRPG Basics/Character\|Character]] cannot use any [[Core Rules/Character Sheet/Stamina#Quick Actions\|Quick Actions]] during the end of turn phase.
 - Any effects that trigger at the end of a Character's turn trigger trigger in the order chosen by the [[TTRPG Basics/GM\|GM]].
 
