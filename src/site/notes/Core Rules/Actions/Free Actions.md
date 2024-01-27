@@ -12,7 +12,7 @@ If a [[TTRPG Basics/Character\|Character]] wishes to perform more than 1 free [[
 ## Example Free Actions
 - [[Core Rules/Inventory/Equipped\|Equipping]] or Unequipping an [[Core Rules/Items\|Item]].
 - Studying another [[TTRPG Basics/Character\|Character]] to gain information.
-- Taking a [[Core Rules/Actions#Step\|Step]]. (This also triggers a step allowing you to move 2 [[Core Rules/Positioning/Tiles\|tiles]] total)
+- Taking a [[Core Rules/Actions#Step\|Step]]. (This also triggers a step allowing you to [[Core Rules/Actions/Basic Actions/Move\|Move]] 2 [[Core Rules/Positioning/Tiles\|tiles]] total)
 - Using an [[Core Rules/Items\|item]] or object in the environment or that is [[Core Rules/Inventory/Equipped\|equipped]].
 - Reloading a ranged [[Core Rules/Items/Properties/Basic Properties/Weapon\|weapon]].
 - A quick shout to another Character.
