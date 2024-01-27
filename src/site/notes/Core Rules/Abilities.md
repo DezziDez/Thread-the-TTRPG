@@ -9,7 +9,7 @@ Abilities are used to make [[Core Rules/Abilities/Ability Checks\|Ability Checks
 ## Might
 This is the conscious ability to exert physical force using your body. Lifting, Moving, Hitting, etc... 
 ## Agility
-This is the unconscious ability to move or think with speed. To act, react, and strike when and where it is needed most.
+This is the unconscious ability to [[Core Rules/Actions/Basic Actions/Move\|Move]] or think with speed. To act, react, and strike when and where it is needed most.
 ## Vitality
 This is life force and the unconscious will to live. It is what keeps everyone alive when they are in danger.
 ## Intellect
