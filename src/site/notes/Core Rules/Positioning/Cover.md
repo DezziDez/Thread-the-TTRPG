@@ -6,7 +6,7 @@
 
 #### Full Cover
 The [[TTRPG Basics/Character\|Character]] is sufficiently covered to not be targeted or directly seen within line of sight.
-Areas of Effect that do not move around corners cannot hit the Character.
+Areas of Effect that do not [[Core Rules/Actions/Basic Actions/Move\|Move]] around corners cannot hit the Character.
 
 #### Half Cover
 At least half of the [[TTRPG Basics/Character\|Character]] is covered
