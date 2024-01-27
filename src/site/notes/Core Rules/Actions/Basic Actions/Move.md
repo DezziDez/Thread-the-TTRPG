@@ -12,4 +12,4 @@ A [[TTRPG Basics/Character\|Character]] moves through the terrain at their [[Cor
 - If the [[TTRPG Basics/Character\|Character]] can stand up, they may do so while using Move. Removing the [[Core Rules/Conditions/Prone\|Prone]] [[Core Rules/Conditions\|condition]]. Doing so costs 4 [[Core Rules/Positioning/Tiles\|Tiles]] of speed.
 
 ### Notes
-A [[TTRPG Basics/Character\|Character]] is allowed to use a [[Core Rules/Actions#Step\|Step]] before or after taking the move [[Core Rules/Actions\|Action]] as this does not count towards their speed.
+A [[TTRPG Basics/Character\|Character]] is allowed to use a [[Core Rules/Actions#Step\|Step]] before or after taking the [[Core Rules/Actions/Basic Actions/Move\|Move]] [[Core Rules/Actions\|Action]] as this does not count towards their speed.
