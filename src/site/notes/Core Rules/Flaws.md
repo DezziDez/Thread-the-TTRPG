@@ -6,7 +6,7 @@
 Some characters may suffer flaws that make them weaker. Such has being blind or missing a limb. This often gives the characters something to overcome by finding away round their weakness and to add development to themselves.
 
 ## Flaws Ranks
-Whenever a character suffers a flaw, they gain [[Core Rules/Rank Points\|rank points]] equal to the rank of the flaw plus the number of flaws the character already has. Flaws are not categorized like [[Core Rules/Skills\|Skills]]. Rather they are grouped by rank and can be gained at any time. Though, the [[Core Rules/Rank Points\|rank points]] gained cannot be spent until the [[TTRPG Basics/Character\|characters]] next [[Core Rules/Character Sheet/Resting#Full-Rest\|Full-Rest]] like normal.
+Whenever a character suffers a flaw, they gain [[Core Rules/Rank Points\|rank points]] equal to the rank of the flaw plus the number of flaws the character already has. Flaws are not categorized like [[Core Rules/Skills\|Skills]]. Rather they are grouped by rank and can be gained at any time. Though, the [[Core Rules/Rank Points\|rank points]] gained cannot be spent until the [[TTRPG Basics/Character\|characters]] next [[Core Rules/Resting#Full-Rest\|Full-Rest]] like normal.
 
 ## Flaw Conflict
 Flaws often have conflicting [[Core Rules/Skills\|Skills]] that oppose the flaw itself. In the case of a conflict between a flaw and a skill, there are some options.
