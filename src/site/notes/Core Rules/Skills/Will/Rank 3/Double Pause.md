@@ -3,7 +3,7 @@
 ---
 
 Requirements: [[Core Rules/Skills/Will/Rank 1/Pause\|Pause]]
-Refresh: 2xWill / [[Core Rules/Character Sheet/Resting#Break\|Break]]
+Refresh: 2xWill / [[Core Rules/Resting#Break\|Break]]
 
 Effects:
-[[Core Rules/Skills/Will/Rank 1/Pause\|Pause]] can now be used a number of times equal to twice your ranks in Will every [[Core Rules/Character Sheet/Resting#Break\|Break]].
+[[Core Rules/Skills/Will/Rank 1/Pause\|Pause]] can now be used a number of times equal to twice your ranks in Will every [[Core Rules/Resting#Break\|Break]].
