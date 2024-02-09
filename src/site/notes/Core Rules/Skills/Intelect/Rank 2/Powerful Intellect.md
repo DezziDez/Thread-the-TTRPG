@@ -6,4 +6,4 @@ Requirements: None
 Refresh: 1xIntellect / Break
 
 Effects:
-Whenever you make an [[Core Rules/Abilities/Ability Checks\|ability check]] or use the [[Core Rules/Actions/Basic Actions/Attack\|Attack]] [[Core Rules/Actions\|action]], you may replace one of the abilities rolled with Intellect.
+Whenever you make an [[Core Rules/Ability Checks\|ability check]] or use the [[Core Rules/Basic Actions/Attack\|Attack]] [[Core Rules/Actions\|action]], you may replace one of the abilities rolled with Intellect.
