@@ -6,4 +6,4 @@ Requirements: [[Core Rules/Skills/Intelect/Rank 1/Mental Resistance 1\|Mental Re
 Refresh: None
 
 Effects:
-Whenever you roll for [[Core Rules/Damage/Resistances\|Resistances]] for [[Core Rules/Damage/Types/Mental\|Mental]] [[Core Rules/Damage\|Damage]] you roll 2 dice instead of 1.
+Whenever you roll for [[Core Rules/Resistances\|Resistances]] for [[Core Rules/Damage Tyoes/Mental\|Mental]] [[Core Rules/Damage\|Damage]] you roll 2 dice instead of 1.
