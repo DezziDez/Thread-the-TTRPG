@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/ranks/"}
 ---
 
-Everything on a [[TTRPG Basics/Character\|Character]] sheet has a rank. Whether that be [[Core Rules/Skills\|Skills]], [[Core Rules/Abilities\|Abilities]], [[Core Rules/Items\|Items]], or [[Core Rules/Damage/Resistances\|Resistances]]. The rank of something determines it's power and everything starts at rank 1. These ranks can be increased by spending [[Core Rules/Rank Points\|Rank Points]].
+Everything on a [[TTRPG Basics/Character\|Character]] sheet has a rank. Whether that be [[Core Rules/Skills\|Skills]], [[Core Rules/Abilities\|Abilities]], [[Core Rules/Items\|Items]], or [[Core Rules/Resistances\|Resistances]]. The rank of something determines it's power and everything starts at rank 1. These ranks can be increased by spending [[Core Rules/Rank Points\|Rank Points]].
 
 Each rank not only represents the power level of something. But it also has an associated die value as represented in the table below.
 #### Rank Table:
@@ -26,7 +26,7 @@ All of the [[Core Rules/Abilities\|Abilities]] have a rank. This rank simply rep
 Each [[Core Rules/Skills\|Skill]] has an associated rank. While a [[Core Rules/Skills\|Skill]] might use the die value of the rank, most [[Core Rules/Skills\|Skills]] do not.
 
 ## Resistance Ranks
-Each type of [[Core Rules/Damage\|Damage]] can have an associated [[Core Rules/Damage/Resistances\|Resistance]]. Use the die on the [[Core Rules/Ranks#Rank Table\|Rank Table]] to determine what to roll when subtracting [[Core Rules/Damage\|damage]].
+Each type of [[Core Rules/Damage\|Damage]] can have an associated [[Core Rules/Resistances\|Resistance]]. Use the die on the [[Core Rules/Ranks#Rank Table\|Rank Table]] to determine what to roll when subtracting [[Core Rules/Damage\|damage]].
 
 ## Condition Ranks
 Some [[Core Rules/Conditions\|Conditions]] can have multiple ranks of that condition. Multiple ranks of a condition have stacking effects as described by the condition.
