@@ -6,6 +6,6 @@ Requirements: [[Core Rules/Skills/Vitality/Rank 4/Temperate Resistance 4\|Temper
 Refresh: None
 
 Effects:
-You gain 5 [[Core Rules/Ranks\|Ranks]] of resistance to [[Core Rules/Damage/Types/Temperate\|Temperate]] [[Core Rules/Damage\|Damage]].
+You gain 5 [[Core Rules/Ranks\|Ranks]] of resistance to [[Core Rules/Damage Tyoes/Temperate\|Temperate]] [[Core Rules/Damage\|Damage]].
 
 
