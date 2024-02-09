@@ -6,6 +6,6 @@ Requirements: [[Core Rules/Skills/Vitality/Rank 1/Chemical Resistance 1\|Chemica
 Refresh: None
 
 Effects:
-You gain 2 [[Core Rules/Ranks\|Ranks]] of resistance to [[Core Rules/Damage/Types/Chemical\|Chemical]] [[Core Rules/Damage\|Damage]].
+You gain 2 [[Core Rules/Ranks\|Ranks]] of resistance to [[Core Rules/Damage Tyoes/Chemical\|Chemical]] [[Core Rules/Damage\|Damage]].
 
 
