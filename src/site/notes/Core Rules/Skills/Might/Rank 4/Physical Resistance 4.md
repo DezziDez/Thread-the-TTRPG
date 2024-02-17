@@ -6,4 +6,4 @@ Requirements: [[Core Rules/Skills/Might/Rank 3/Physical Resistance 3\|Physical R
 Refresh: None
 
 Effects:
-You gain 4 [[Core Rules/Ranks\|Ranks]] of resistance to [[Core Rules/Damage Tyoes/Physical\|Physical]] [[Core Rules/Damage\|Damage]].
+You gain 4 [[Core Rules/Ranks\|Ranks]] of resistance to [[Core Rules/Damage Types/Physical\|Physical]] [[Core Rules/Damage\|Damage]].
