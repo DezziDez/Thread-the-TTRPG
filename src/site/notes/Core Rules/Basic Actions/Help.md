@@ -7,8 +7,8 @@ A [[TTRPG Basics/Character\|Character]] can provide aid to a roll to make the ro
 
 #### Using help
 - The [[TTRPG Basics/Character\|Character]] helps one other [[TTRPG Basics/Character\|Character]] with their next roll.
-- The other [[TTRPG Basics/Character\|Character]] gains an advantage on that roll.
-- A [[TTRPG Basics/Character\|Character]] cannot gain an advantage from the Help [[Core Rules/Actions\|action]] more than once in a roll.
+- The other [[TTRPG Basics/Character\|Character]] gains an Boon on that roll.
+- A [[TTRPG Basics/Character\|Character]] cannot gain an Boon from the Help [[Core Rules/Actions\|action]] more than once in a roll.
 - Using the Help [[Core Rules/Actions\|action]] on a [[TTRPG Basics/Character\|Character]] with the [[Core Rules/Conditions/Dying\|Dying]] condition also removes 1 rank of the [[Core Rules/Conditions/Dying\|Dying]] condition from the character.
 
 ### Notes
