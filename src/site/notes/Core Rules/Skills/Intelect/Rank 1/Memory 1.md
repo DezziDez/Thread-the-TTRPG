@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/intelect/rank-1/memory-1/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
