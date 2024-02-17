@@ -2,8 +2,5 @@
 {"dg-publish":true,"permalink":"/core-rules/conditions/exhausted/"}
 ---
 
-- All [[Core Rules/Actions\|actions]] you use cost 2 additional [[Core Rules/Stamina\|Stamina]] for every [[Core Rules/Ranks\|Rank]] of Exhausted.
-
-
-##### Note
-All [[Core Rules/Actions\|Actions]] includes [[Core Rules/Free Actions\|Free Actions]] which normally cost 0 [[Core Rules/Stamina\|Stamina]].
+- Your maximum [[Core Rules/Stamina\|Stamina]] is reduced by 3 points for every [[Core Rules/Ranks\|Rank]] of Exhausted.
+- Taking a [[Core Rules/Resting#Half-Rest\|Half-Rest]] removes one [[Core Rules/Ranks\|Rank]] of Exhausted.
