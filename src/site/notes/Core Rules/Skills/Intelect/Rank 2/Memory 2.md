@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/intelect/rank-2/memory-2/"}
 ---
 
-Requirements: [[Core Rules/Skills/Intelect/Rank 1/Memory 1\|Memory 1]]
 Refresh: None
 
 Effects:
