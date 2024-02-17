@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/agility/rank-2/movement-2/"}
 ---
 
-Requirements: [[Core Rules/Skills/Agility/Rank 1/Movement 1\|Movement 1]]
 Refresh: None
 
 Effects:
