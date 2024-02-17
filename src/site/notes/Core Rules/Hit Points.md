@@ -4,7 +4,7 @@
 
 Hit Points are the life force and ability to survive.
 
-The maximum amount of Hit Points a [[TTRPG Basics/Character\|Character]] has is easily represented by taking two dice of a value equal to the die value of the [[TTRPG Basics/Character\|Characters]] Vitality. 
+The maximum amount of Stamina a [[TTRPG Basics/Character\|Character]] has is easily represented by taking two dice equal to the value of the [[TTRPG Basics/Character\|Characters]] Vitality.
 - For example, if a [[TTRPG Basics/Character\|Character]] has 3 ranks in Vitality, then that [[TTRPG Basics/Character\|Character]] represents their Hit Points with 2d6 set to their maximum value, 12 is the maximum Hit Points in this case. Subtracting hit points is done by decreasing the value on the dice.
 
 Hit Points are reduced mainly when a [[TTRPG Basics/Character\|Character]] takes [[Core Rules/Damage\|Damage]]. This is generally avoided by consuming [[Core Rules/Stamina\|Stamina]].
