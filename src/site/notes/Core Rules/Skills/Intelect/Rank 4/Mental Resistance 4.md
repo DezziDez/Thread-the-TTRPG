@@ -6,7 +6,7 @@ Requirements: [[Core Rules/Skills/Intelect/Rank 3/Mental Resistance 3\|Mental Re
 Refresh: None
 
 Effects:
-You gain 4 [[Core Rules/Ranks\|ranks]] of resistance to [[Core Rules/Damage Tyoes/Mental\|Mental]] [[Core Rules/Damage\|Damage]].
+You gain 4 [[Core Rules/Ranks\|ranks]] of resistance to [[Core Rules/Damage Types/Mental\|Mental]] [[Core Rules/Damage\|Damage]].
 
 
 
