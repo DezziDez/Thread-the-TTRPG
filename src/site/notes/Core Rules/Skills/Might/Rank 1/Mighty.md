@@ -6,5 +6,5 @@ Requirements: None
 Refresh: None
 
 Effects:
-Whenever you make a Might+Might [[Core Rules/Ability Checks\|ability check]] you gain an [[Core Rules/Advantage and Disadvantage\|advantage]].
+Whenever you make a Might+Might [[Core Rules/Ability Checks\|ability check]] you gain an [[Core Rules/Boon and Bane\|Boon]].
 
