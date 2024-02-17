@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/flanking/"}
 ---
 
-[[TTRPG Basics/Character\|Characters]] can position themselves such that they make it difficult for the defending [[TTRPG Basics/Character\|Character]] to protect themselves. [[TTRPG Basics/Character\|Characters]] flanking a defending [[TTRPG Basics/Character\|Character]] gain an [[Core Rules/Advantage and Disadvantage\|Advantage]] against the defending [[TTRPG Basics/Character\|Character]] for melee [[Core Rules/Basic Actions/Attack\|Attacks]].
+[[TTRPG Basics/Character\|Characters]] can position themselves such that they make it difficult for the defending [[TTRPG Basics/Character\|Character]] to protect themselves. [[TTRPG Basics/Character\|Characters]] flanking a defending [[TTRPG Basics/Character\|Character]] gain an [[Core Rules/Boon and Bane\|Boon]] against the defending [[TTRPG Basics/Character\|Character]] for melee [[Core Rules/Basic Actions/Attack\|Attacks]].
 
 When two [[TTRPG Basics/Character\|Characters]] are attacking a defending [[TTRPG Basics/Character\|Character]] within 1 [[Core Rules/Tiles\|Tile]] range, draw a line between the two attacking [[TTRPG Basics/Character\|Characters]]. If that line intersects the defending character, the attacking [[TTRPG Basics/Character\|Characters]] are flanking the defending character. 
 
