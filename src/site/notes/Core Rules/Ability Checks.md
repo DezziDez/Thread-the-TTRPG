@@ -19,7 +19,7 @@ See below for **examples** of different ability checks and their meanings. The [
 | Might     | Will      | To exert strength with control over every muscle.                   |
 | Agility   | Agility   | Balancing, Catching, sprinting                               |
 | Agility   | Vitality  | Avoiding a Trap, Dodging an AOE                   |
-| Agility   | Intellect | Initiative, Stealth                                        |
+| Agility   | Intellect | Stealth                                        |
 | Agility   | Insight   | Perception, Slight of Hand                                        |
 | Agility   | Will      | To move or think with speed and control                   |
 | Vitality  | Vitality  | Resist a Poison, Survive a major wound            |
