@@ -6,6 +6,6 @@ Requirements: None
 Refresh: None
 
 Effects:
-Whenever you make an [[Core Rules/Ability Checks\|ability check]] to lie or deceive another [[TTRPG Basics/Character\|Character]] you gain an advantage.
+Whenever you make an [[Core Rules/Ability Checks\|ability check]] to lie or deceive another [[TTRPG Basics/Character\|Character]] you gain an Boon.
 
 
