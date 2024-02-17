@@ -12,12 +12,9 @@ Every [[Core Rules/Skills\|Skill]] is associated with an [[Core Rules/Abilities\
 
 For example, if a [[TTRPG Basics/Character\|Character]] wishes to purchase a Rank 3 [[Core Rules/Skills\|Skill]] in Agility, that [[TTRPG Basics/Character\|Character]] must first have at least 3 [[Core Rules/Ranks\|Ranks]] in the Agility [[Core Rules/Abilities\|ability]].
 
-The [[TTRPG Basics/Character\|Character]] must then spend a number of [[Core Rules/Rank Points\|Rank Points]] equal to the Rank of the [[Core Rules/Skills\|Skill]] plus the number of [[Core Rules/Skills\|Skills]] the [[TTRPG Basics/Character\|Character]] has in that [[Core Rules/Abilities\|ability]].
+The [[TTRPG Basics/Character\|Character]] must then spend a number of [[Core Rules/Rank Points\|Rank Points]] equal to the Rank of the [[Core Rules/Skills\|Skill]].
 
-For example, if a [[TTRPG Basics/Character\|Character]] has 3 [[Core Rules/Skills\|Skills]] and wishes to purchase a rank 2 skill. They must spend 5 [[Core Rules/Rank Points\|Rank Points]] to purchase it.
-
-## Requirements
-Some [[Core Rules/Skills\|Skills]] have requirements, usually other skills, before that [[Core Rules/Skills\|Skill]] can be taken. These [[Core Rules/Skills\|Skills]] are marked with their requirements at the top of their description.
+For example, if a [[TTRPG Basics/Character\|Character]] wishes to purchase a rank 2 skill. They must spend 2 [[Core Rules/Rank Points\|Rank Points]] to purchase it.
 
 ## Refresh
 Some [[Core Rules/Skills\|Skills]] can only be used a certain number of times before they need to be refreshed. The [[Core Rules/Skills\|Skill]] will describe the conditions for a refresh but this is usually performed during [[Core Rules/Resting\|Resting]].
