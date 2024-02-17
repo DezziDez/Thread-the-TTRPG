@@ -6,6 +6,6 @@ Requirements: None
 Refresh: None
 
 Effects:
-You gain 1 [[Core Rules/Ranks\|Rank]] of resistance to [[Core Rules/Damage Tyoes/Chemical\|Chemical]] [[Core Rules/Damage\|Damage]].
+You gain 1 [[Core Rules/Ranks\|Rank]] of resistance to [[Core Rules/Damage Types/Chemical\|Chemical]] [[Core Rules/Damage\|Damage]].
 
 
