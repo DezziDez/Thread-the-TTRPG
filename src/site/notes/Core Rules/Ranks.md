@@ -17,7 +17,7 @@ Each rank not only represents the power level of something. But it also has an a
 | 7 | d12+1 | 8 |
 | 8 | d12+2 | 9 |
 | 9 | d12+3 | 10 |
-| ... | ... | ... |
+| 10 | d20 | 11 |
 
 ## Ability Ranks
 All of the [[Core Rules/Abilities\|Abilities]] have a rank. This rank simply represents the die value of that ability. For example, if a [[TTRPG Basics/Character\|Character]] has Agility at rank 3 then the die value for Agility is a d6.
