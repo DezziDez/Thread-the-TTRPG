@@ -4,3 +4,4 @@
 
 - You are [[Core Rules/Conditions/Prone\|Prone]].
 - You are unaware of your surroundings.
+- You can't move or speak.
