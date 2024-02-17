@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/core-rules/disposition/"}
 ---
 
-All [[TTRPG Basics/Character\|Characters]] have a Disposition to all other [[TTRPG Basics/Character\|Characters]], groups, or ideas. This represents how [[TTRPG Basics/Character\|Characters]] feel about the target of their emotions and can be used to represent a character's emotional state or personality when used liberally.
+All [[TTRPG Basics/Character\|Characters]] have a Disposition to all other [[TTRPG Basics/Character\|Characters]], groups, ideas, or objects. This represents how [[TTRPG Basics/Character\|Characters]] feel about the target of their emotions and can be used to represent a character's emotional state or personality when used liberally.
 
 ## Emotions
 Disposition in its most basic form is represented as positive, neutral, and negative. However, often [[TTRPG Basics/Character\|Characters]] have more complex emotions or feelings about the target of their emotions. Loving, Caring, Friendly, Passive, Neutral, Uncaring, Frightened, Terrified, Disgusted, Dislike, Aggressive, Hostile, Hateful.
 
 ## Influence
-These dispositions can greatly influence how a [[TTRPG Basics/Character\|Character]] feels about other [[TTRPG Basics/Character\|Characters]], groups of people, and various ideologies or ideas. Dispositions can help flesh out a character's emotions and feelings.
+These dispositions can greatly influence how a [[TTRPG Basics/Character\|Character]] feels about other [[TTRPG Basics/Character\|Characters]], groups of people, various ideologies or ideas, and objects or actions. Dispositions can help flesh out a character's emotions and feelings.
 
 A friendly disposition would cause a [[TTRPG Basics/Character\|Character]] might be convinced to help while an Aggressive [[TTRPG Basics/Character\|Character]] may be impossible to influence without changing their disposition or threat.
 
