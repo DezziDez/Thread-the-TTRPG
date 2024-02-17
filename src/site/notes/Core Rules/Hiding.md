@@ -6,4 +6,4 @@ If a [[TTRPG Basics/Character\|Character]] cannot be seen and another [[TTRPG Ba
 
 If another [[TTRPG Basics/Character\|Character]] is Hidden, then as long as the [[TTRPG Basics/Character\|Character]] remains hidden, then the [[TTRPG Basics/Character\|Character]] that is not aware of the Hidden [[TTRPG Basics/Character\|Character]] cannot local them without actively searching.
 
-Additionally, A Hidden [[TTRPG Basics/Character\|Character]] has an [[Core Rules/Advantage and Disadvantage\|advantage]] against other [[TTRPG Basics/Character\|Characters]] not aware of them.
+Additionally, A Hidden [[TTRPG Basics/Character\|Character]] has an [[Core Rules/Boon and Bane\|Boon]] against other [[TTRPG Basics/Character\|Characters]] not aware of them.
