@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/core-rules/conditions/prone/"}
 ---
 
-- Ranged attacks against you suffer a [[Core Rules/Advantage and Disadvantage\|disadvantage]].
-- Melee attacks against you gain an [[Core Rules/Advantage and Disadvantage\|advantage]]
+- Ranged attacks against you suffer a [[Core Rules/Boon and Bane\|Bane]].
+- Melee attacks against you gain an [[Core Rules/Boon and Bane\|Boon]]
 - You suffer 1 rank of the [[Core Rules/Conditions/Slowed\|Slowed]] condition.
 
 ##### Note: 
