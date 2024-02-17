@@ -10,4 +10,4 @@ Areas of Effect that do not [[Core Rules/Basic Actions/Move\|Move]] around corne
 
 #### Half Cover
 At least half of the [[TTRPG Basics/Character\|Character]] is covered
-[[TTRPG Basics/Character\|Characters]] targeting the partially covered [[TTRPG Basics/Character\|Character]] suffer a [[Core Rules/Advantage and Disadvantage\|Disadvantage]].
+[[TTRPG Basics/Character\|Characters]] targeting the partially covered [[TTRPG Basics/Character\|Character]] suffer a [[Core Rules/Boon and Bane\|Bane]].
