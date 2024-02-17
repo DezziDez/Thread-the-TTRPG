@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/ranks/"}
 ---
 
-Everything on a [[TTRPG Basics/Character\|Character]] sheet has a rank. Whether that be [[Core Rules/Skills\|Skills]], [[Core Rules/Abilities\|Abilities]], [[Core Rules/Items\|Items]], or [[Core Rules/Resistances\|Resistances]]. The rank of something determines it's power and everything starts at rank 1. These ranks can be increased by spending [[Core Rules/Rank Points\|Rank Points]].
+Everything on a [[TTRPG Basics/Character\|Character]] sheet has a rank. Whether that be [[Core Rules/Skills\|Skills]], [[Core Rules/Abilities\|Abilities]], [[Core Rules/Items\|Items]], or [[Core Rules/Resistances\|Resistances]]. The rank of something determines it's power, everything starting at rank 1 and generally not going higher than rank 6. These ranks can be increased by spending [[Core Rules/Rank Points\|Rank Points]].
 
 Each rank not only represents the power level of something. But it also has an associated die value as represented in the table below.
 #### Rank Table:
@@ -31,5 +31,5 @@ Each type of [[Core Rules/Damage\|Damage]] can have an associated [[Core Rules/R
 ## Condition Ranks
 Some [[Core Rules/Conditions\|Conditions]] can have multiple ranks of that condition. Multiple ranks of a condition have stacking effects as described by the condition.
 
-## Item Ranks
+## Item Ranks WIP
 [[Core Rules/Items\|Items]] can have ranks. An [[Core Rules/Items\|Item]] can have a number of properties equal to the rank of the [[Core Rules/Items\|Item]].
