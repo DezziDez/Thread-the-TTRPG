@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/agility/rank-4/movement-4/"}
 ---
 
-Requirements: [[Core Rules/Skills/Agility/Rank 3/Movement 3\|Movement 3]]
 Refresh: None
 
 Effects:
