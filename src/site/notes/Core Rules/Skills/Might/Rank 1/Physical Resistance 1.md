@@ -6,4 +6,4 @@ Requirements: None
 Refresh: None
 
 Effects:
-You gain 1 [[Core Rules/Ranks\|Rank]] of resistance to [[Core Rules/Damage Tyoes/Physical\|Physical]] [[Core Rules/Damage\|Damage]].
+You gain 1 [[Core Rules/Ranks\|Rank]] of resistance to [[Core Rules/Damage Types/Physical\|Physical]] [[Core Rules/Damage\|Damage]].
