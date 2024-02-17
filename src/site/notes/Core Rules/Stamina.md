@@ -5,7 +5,7 @@
 Stamina is the fuel and energy for every character. 
 
 The maximum amount of Stamina a [[TTRPG Basics/Character\|Character]] has is easily represented by taking two dice equal to the value of the [[TTRPG Basics/Character\|Characters]] Will.
-For example, if a [[TTRPG Basics/Character\|Character]] has 2 ranks in Will, then that [[TTRPG Basics/Character\|Character]] represents their Stamina with 2d4 set to their maximum value, 8 is the maximum Stamina in this case. Subtracting Stamina is done by decreasing the value on the dice.
+- For example, if a [[TTRPG Basics/Character\|Character]] has 2 ranks in Will, then that [[TTRPG Basics/Character\|Character]] represents their Stamina with 2d4 set to their maximum value, 8 is the maximum Stamina in this case. Subtracting Stamina is done by decreasing the value on the dice.
 
 Stamina is consumed whenever a [[TTRPG Basics/Character\|Character]] uses an [[Core Rules/Actions\|Action]] or takes [[Core Rules/Damage\|Damage]].
 
