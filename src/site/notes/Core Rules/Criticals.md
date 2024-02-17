@@ -15,9 +15,9 @@ A critical failure is when an [[Core Rules/Ability Checks\|ability check]] or an
 
 Some additional event may occur due to a critical failure based on the situation. This is known as a brutal critical fail and it is up to the [[TTRPG Basics/GM\|GM]] to determine the outcome of the great failure.
 
-## Advantages and Disadvantages with Criticals
-[[TTRPG Basics/Character\|Characters]] can gain [[Core Rules/Advantage and Disadvantage\|advantages or disadvantages]] from certain skills, conditions, or situations, affecting their rolls. If two of these, either advantages or disadvantages, force a critical roll in either direction, the critical should not be counted. 
+## Boons and Banes with Criticals
+[[TTRPG Basics/Character\|Characters]] can gain [[Core Rules/Boon and Bane\|Boons or Banes]] from certain skills, conditions, or situations, affecting their rolls. If two of these, either Boons or Banes, force a critical roll in either direction, the critical should not be counted. 
 
-Example 1: If a [[TTRPG Basics/Character\|Character]] has two [[Core Rules/Advantage and Disadvantage\|disadvantages]], they would have two guaranteed natural 1s. In this case, the occurrence of two critical failures wouldn't happen. Same goes for [[Core Rules/Advantage and Disadvantage\|advantages]] and a critical success. 
+Example 1: If a [[TTRPG Basics/Character\|Character]] has two [[Core Rules/Boon and Bane\|Banes]], they would have two guaranteed natural 1s. In this case, the occurrence of two critical failures wouldn't happen. Same goes for [[Core Rules/Boon and Bane\|Boons]] and a critical success. 
 
-Example 2: If a [[TTRPG Basics/Character\|Character]] has one [[Core Rules/Advantage and Disadvantage\|disadvantage]], they will have one guaranteed natural 1. This would result in a critical failure if another natural 1 appears on their other die roll. The same applies to [[Core Rules/Advantage and Disadvantage\|advantages]] and a critical success
+Example 2: If a [[TTRPG Basics/Character\|Character]] has one [[Core Rules/Boon and Bane\|Bane]], they will have one guaranteed natural 1. This would result in a critical failure if another natural 1 appears on their other die roll. The same applies to [[Core Rules/Boon and Bane\|Boons]] and a critical success
