@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/might/rank-2/charge/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
 You gain access to the Charge [[Core Rules/Actions\|action]].
 
-Charge (Stamina Cost: 4)
+###### Charge (Stamina Cost: 4)
 You can [[Core Rules/Basic Actions/Move\|Move]] up to your [[Core Rules/Speed\|Speed]] in a straight line. 
 
 If you were to collide with another [[TTRPG Basics/Character\|Character]] that is no more than 1 [[Core Rules/Sizes\|size]] larger than you, you deal [[Core Rules/Damage\|Damage]] equal to 1 roll of your Might and stop moving. 
