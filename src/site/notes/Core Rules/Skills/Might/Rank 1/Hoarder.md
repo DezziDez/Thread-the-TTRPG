@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/might/rank-1/hoarder/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
