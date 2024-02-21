@@ -21,4 +21,7 @@ Some [[Core Rules/Skills\|Skills]] can only be used a certain number of times be
 
 A [[Core Rules/Skills\|Skill]] may have a variable number of uses before a refresh. These are usually based on the number of ranks of the associated [[Core Rules/Abilities\|ability]] and a multiplier.
 
-For example, 2xMight / [[Core Rules/Resting#Break\|Break]] would be 2 times the number of [[Core Rules/Ranks\|Ranks]] in Might of the [[TTRPG Basics/Character\|Character]] for every [[Core Rules/Resting#Break\|Break]].
+For example, 2xMight / [[Core Rules/Resting#Break\|Break]] would be twice the number of [[Core Rules/Ranks\|Ranks]] in Might of the [[TTRPG Basics/Character\|Character]] for every [[Core Rules/Resting#Break\|Break]].
+
+## Upgrades
+Some select skills effects are tied to it's [[Core Rules/Ranks\|rank]]. Whenever a [[TTRPG Basics/Character\|Character]] has a skill that can be upgraded to a greater [[Core Rules/Ranks\|rank]]. The [[TTRPG Basics/Character\|Character]] may choose to spend the required number of [[Core Rules/Rank Points\|Rank Points]] to increase the [[Core Rules/Ranks\|rank]] of that skill. This cost is the same as purchasing a new skill and has the same requirements.
