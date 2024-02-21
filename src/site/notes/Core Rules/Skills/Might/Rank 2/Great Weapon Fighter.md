@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/might/rank-2/great-weapon-fighter/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
