@@ -3,7 +3,7 @@
 ---
 
 - Ranged attacks against you suffer a [[Core Rules/Boon and Bane\|Bane]].
-- Melee attacks against you gain an [[Core Rules/Boon and Bane\|Boon]]
+- Melee attacks against you gain a [[Core Rules/Boon and Bane\|Boon]]
 - You suffer 1 rank of the [[Core Rules/Conditions/Slowed\|Slowed]] condition.
 
 ##### Note: 
