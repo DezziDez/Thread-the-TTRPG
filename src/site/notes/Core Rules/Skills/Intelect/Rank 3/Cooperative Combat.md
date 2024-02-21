@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/intelect/rank-3/cooperative-combat/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
