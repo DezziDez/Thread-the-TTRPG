@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/intelect/rank-3/mentally-hardened/"}
 ---
 
-Requirements: [[Core Rules/Skills/Intelect/Rank 1/Mental Resistance 1\|Mental Resistance 1]]
 Refresh: None
 
 Effects:
