@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/insight/rank-2/blend-in/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
