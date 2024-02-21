@@ -8,6 +8,6 @@ This is when a [[TTRPG Basics/Character\|Character]] would use their Average Che
 
 For example, if a [[TTRPG Basics/Character\|Character]] has 3 [[Core Rules/Ranks\|Ranks]] in Insight and 2 [[Core Rules/Ranks\|Ranks]] in Intellect, and wanted to detect if a [[TTRPG Basics/Character\|Character]] is lying during an interrogation repetitively, they would use the average of 4+3=7 instead of rolling.
 
-If a [[TTRPG Basics/Character\|Character]] has an [[Core Rules/Boon and Bane\|Boon]] or [[Core Rules/Boon and Bane\|Bane]] they would simply move that die to it's maximum or minimum respectively instead of taking the average.
+If a [[TTRPG Basics/Character\|Character]] has a [[Core Rules/Boon and Bane\|Boon]] or [[Core Rules/Boon and Bane\|Bane]] they would simply move that die to it's maximum or minimum respectively instead of taking the average.
 
 For the same example, if the [[TTRPG Basics/Character\|Character]] has an Boon, they would use 4+4=8 instead of 7. If the [[TTRPG Basics/Character\|Character]] has a Bane, they would use 4+1=5 instead of 7.
