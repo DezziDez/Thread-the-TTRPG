@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/core-rules/skills/insight/rank-2/taunt/"}
 ---
 
-Requirements: None
 Refresh: None
 
 Effects:
