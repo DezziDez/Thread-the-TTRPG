@@ -3,7 +3,7 @@
 ---
 
 ### Description
-Prepare is a strategistic [[Core Rules/Actions and Turn Time/Actions\|Action]] that allows for better [[Core Rules/Character and Contests/Stamina\|Stamina]] management. It also helps with setup and planning outside of normal turns.
+Prepare is a strategistic [[Core Rules/Actions and Turn Time/Actions\|Action]] that allows for better [[Core Rules/Characters and Rolling/Character Sheet/Stamina\|Stamina]] management. It also helps with setup and planning outside of normal turns.
 
 #### When Used
 - The player must declare their next quick action.
