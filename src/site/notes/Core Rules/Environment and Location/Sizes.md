@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/core-rules/environment-and-location/sizes/"}
 ---
 
-Every [[Core Rules/Character and Contests/Character\|Character]] has a size. The size of a [[Core Rules/Character and Contests/Character\|Character]] determines the number of [[Core Rules/Environment and Location/Tiles\|Tiles]] they take up on a map and in physical space.
+Every [[Core Rules/Characters and Rolling/Character\|Character]] has a size. The size of a [[Core Rules/Characters and Rolling/Character\|Character]] determines the number of [[Core Rules/Environment and Location/Tiles\|Tiles]] they take up on a map and in physical space.
 
-A [[Core Rules/Character and Contests/Character\|Character]] increases by 1 [[Core Rules/Environment and Location/Tiles\|tile]] for every size category above Medium and decreases by 1/2 a [[Core Rules/Environment and Location/Tiles\|tile]] for every category below Medium. There is no hard limit to how large or small a [[Core Rules/Character and Contests/Character\|Character]] can be, but practically [[Core Rules/Character and Contests/Character\|Characters]] can be too small or too large to manage for the game.
+A [[Core Rules/Characters and Rolling/Character\|Character]] increases by 1 [[Core Rules/Environment and Location/Tiles\|tile]] for every size category above Medium and decreases by 1/2 a [[Core Rules/Environment and Location/Tiles\|tile]] for every category below Medium. There is no hard limit to how large or small a [[Core Rules/Characters and Rolling/Character\|Character]] can be, but practically [[Core Rules/Characters and Rolling/Character\|Characters]] can be too small or too large to manage for the game.
 
 The names of the sizes beyond Small, Medium, and Large have no real meaning and can easily be changed.
 #### Size Table
