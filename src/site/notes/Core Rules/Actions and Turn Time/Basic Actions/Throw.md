@@ -12,4 +12,4 @@ A [[Core Rules/Characters and Rolling/Character\|Character]] takes an [[Core Rul
 - If the [[Core Rules/Items, Crafting, Inventory/Items\|item]] is more than 2 slots, it can only travel 1 tile.
 
 ### Notes
-Throwing an [[Core Rules/Items, Crafting, Inventory/Items\|item]] doesn't deal [[Core Rules/Damage and Conditions/Damage\|Damage]] normally unless it is otherwise stated in the [[Core Rules/Items, Crafting, Inventory/Items\|item]] or with a [[Core Rules/Characters and Rolling/Character Sheet/Skills and Flaws/Skills\|skill]]
+Throwing an [[Core Rules/Items, Crafting, Inventory/Items\|item]] doesn't deal [[Core Rules/Damage and Conditions/Damage\|Damage]] normally unless it is otherwise stated in the [[Core Rules/Items, Crafting, Inventory/Items\|item]] or with a [[Core Rules/Characters and Rolling/Skills and Flaws/Skills\|skill]]
