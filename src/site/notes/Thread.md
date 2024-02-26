@@ -13,7 +13,7 @@ Thread can be navigated by selecting [[Thread\|Threads]] or Links sprinkled thro
 
 There is also a search function that is very useful for finding anything specific.
 
-Thread is entirely setting agnostic. Allowing you to use the system in any world for any [[Core Rules/Characters and Rolling/Character\|Characters]]. There is also explicitly no flavor added to any skills, only mechanics. This is to reduce the number of characters in [[Core Rules/Characters and Rolling/Character Sheet/Skills and Flaws/Skills\|Skills]] to reduce confusion and reading. But, it is also to have as little restrictions on the potential flavor of the skills. Thread will never tell you how to interpret anything.
+Thread is entirely setting agnostic. Allowing you to use the system in any world for any [[Core Rules/Characters and Rolling/Character\|Characters]]. There is also explicitly no flavor added to any skills, only mechanics. This is to reduce the number of characters in [[Core Rules/Characters and Rolling/Skills and Flaws/Skills\|Skills]] to reduce confusion and reading. But, it is also to have as little restrictions on the potential flavor of the skills. Thread will never tell you how to interpret anything.
 
 
 ## Mission Statement
