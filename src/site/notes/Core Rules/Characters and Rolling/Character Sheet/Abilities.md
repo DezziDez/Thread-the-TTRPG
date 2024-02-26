@@ -19,7 +19,7 @@ This is the conscious ability to think, keep sharp in complex situations, or to 
 This is the conscious will to live. The driving force in everyone to keep moving forward.
 
 ### Ranking Up Abilities
-Whenever a [[Core Rules/Characters and Rolling/Character\|Character]] spends [[Core Rules/Characters and Rolling/Character Sheet/Rank Points\|Rank Points]] during a [[Core Rules/Characters and Rolling/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Characters and Rolling/Character Sheet/Skills and Flaws/Skills\|Skills]].
+Whenever a [[Core Rules/Characters and Rolling/Character\|Character]] spends [[Core Rules/Characters and Rolling/Character Sheet/Rank Points\|Rank Points]] during a [[Core Rules/Characters and Rolling/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Characters and Rolling/Skills and Flaws/Skills\|Skills]].
 
 Abilities cost a number of [[Core Rules/Characters and Rolling/Character Sheet/Rank Points\|Rank Points]] equal to the rank being purchased. Abilities must be increased in [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Ranks]] in order.
 
