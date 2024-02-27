@@ -4,7 +4,7 @@
 
 - The size of this [[Core Rules/Items, Crafting, Inventory/Items\|Item]] is 1 [[Core Rules/Items, Crafting, Inventory/Inventory and Carry Capacity/Slots\|slot]].
 - When a [[Core Rules/Characters and Rolling/Character\|Character]] uses the [[Core Rules/Actions and Turn Time/Basic Actions/Attack\|Attack]] [[Core Rules/Actions and Turn Time/Actions\|Action]] they may use this [[Core Rules/Items, Crafting, Inventory/Items\|Item]] as a weapon.
-- The [[Core Rules/Damage and Conditions/Damage\|Damage]] die for this weapon is 1d2.
+- The [[Core Rules/Damage and Conditions/Damage\|Damage]] [[TTRPG Basics/Dice\|Die]] for this weapon is 1d2.
 - The [[Core Rules/Items, Crafting, Inventory/Items\|Item]] is either Melee or Ranged.
 ##### Melee
 - This [[Core Rules/Items, Crafting, Inventory/Items\|Item]] is a melee weapon, the [[Core Rules/Items, Crafting, Inventory/Items\|Item]] is (Bladed, Blunt, or Pointed).
