@@ -12,4 +12,4 @@ A [[Core Rules/Characters and Rolling/Character\|Character]] may use the Communi
 	- Examples would be to pacify a hostile [[Core Rules/Characters and Rolling/Character\|Character]] or to try and intimidate a group of [[Core Rules/Characters and Rolling/Character\|Characters]] into fleeing.
 
 ### Notes
-A [[Core Rules/Characters and Rolling/Character\|Character]] cannot Communicate with another [[Core Rules/Characters and Rolling/Character\|Character]] that cannot hear them in any way relay information. 
+A [[Core Rules/Characters and Rolling/Character\|Character]] cannot Communicate with another [[Core Rules/Characters and Rolling/Character\|Character]] that cannot hear them in any way or relay information. 
