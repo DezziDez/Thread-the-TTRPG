@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/actions-and-turn-time/turns/"}
 ---
 
-A turn is a character's localized time bubble that allows them to perform [[Core Rules/Actions and Turn Time/Actions\|Actions]] and effect the situation.
+A turn is a character's localized time bubble that allows them to perform [[Core Rules/Actions and Turn Time/Actions\|Actions]] and effect the [[Core Rules/Actions and Turn Time/Events\|Event]].
 
 ## Turn Phases
 Turns are performed in phases that can be resolved quickly with practice.
