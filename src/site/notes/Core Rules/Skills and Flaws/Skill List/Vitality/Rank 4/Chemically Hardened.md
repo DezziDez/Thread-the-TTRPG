@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/vitality/rank-3/chemically-hardened/"}
+{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/vitality/rank-4/chemically-hardened/"}
 ---
 
 Refresh: None

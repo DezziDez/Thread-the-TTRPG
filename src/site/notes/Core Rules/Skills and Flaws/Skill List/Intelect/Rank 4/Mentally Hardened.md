@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/intelect/rank-3/mentally-hardened/"}
+{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/intelect/rank-4/mentally-hardened/"}
 ---
 
 Refresh: None

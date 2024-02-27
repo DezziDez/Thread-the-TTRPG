@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/vitality/rank-3/temperately-hardened/"}
+{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/vitality/rank-4/temperately-hardened/"}
 ---
 
 Refresh: None

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/might/rank-3/physically-hardened/"}
+{"dg-publish":true,"permalink":"/core-rules/skills-and-flaws/skill-list/might/rank-4/physically-hardened/"}
 ---
 
 Refresh: None
