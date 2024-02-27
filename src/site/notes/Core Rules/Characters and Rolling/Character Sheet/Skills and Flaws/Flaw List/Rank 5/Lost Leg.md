@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-rules/characters-and-rolling/character-sheet/skills-and-flaws/flaw-list/rank-4/lost-leg/"}
+{"dg-publish":true,"permalink":"/core-rules/characters-and-rolling/character-sheet/skills-and-flaws/flaw-list/rank-5/lost-leg/"}
 ---
 
 Conflicts:
