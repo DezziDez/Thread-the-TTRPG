@@ -4,8 +4,6 @@
 
 Every [[Core Rules/Characters and Rolling/Character\|Character]] can perform 1 free [[Core Rules/Actions and Turn Time/Actions\|Action]] without any cost. A free [[Core Rules/Actions and Turn Time/Actions\|Action]] is a very quick and low-energy task.
 
-Free [[Core Rules/Actions and Turn Time/Actions\|Actions]] are separate from all other [[Core Rules/Actions and Turn Time/Actions\|Actions]]. They ignore the cost of the previous [[Core Rules/Actions and Turn Time/Actions\|Action]] and do not affect the cost of the next action.
-
 If a [[Core Rules/Characters and Rolling/Character\|Character]] wishes to perform more than 1 free [[Core Rules/Actions and Turn Time/Actions\|Action]] in a round, they must expend 1 [[Core Rules/Characters and Rolling/Character Sheet/Stamina\|Stamina]] point for every extra free [[Core Rules/Actions and Turn Time/Actions\|Action]] to do so.
 
 
