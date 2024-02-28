@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/core-rules/characters-and-rolling/character-sheet/ranks/"}
 ---
 
-Everything on a [[Core Rules/Characters and Rolling/Character\|Character]] sheet has a rank. Whether that be [[Core Rules/Skills and Flaws/Skills\|Skills]], [[Core Rules/Characters and Rolling/Character Sheet/Abilities\|Abilities]], [[Core Rules/Items, Crafting, Inventory/Items\|Items]], or [[Core Rules/Damage and Conditions/Resistances\|Resistances]]. The rank of something determines it's power, everything starting at rank 1 and generally not going higher than rank 6. These ranks can be increased by spending [[Core Rules/Characters and Rolling/Character Sheet/Rank Points\|Rank Points]].
+Everything on a [[Core Rules/Characters and Rolling/Character\|Character]] sheet has a rank. Whether that be [[Core Rules/Skills and Flaws/Skills\|Skills]], [[Core Rules/Characters and Rolling/Character Sheet/Abilities\|Abilities]], [[Core Rules/Items, Crafting, Inventory/Items\|Items]], or [[Core Rules/Damage and Conditions/Resistances\|Resistances]]. The [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] of something determines it's power, everything starting at [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 1 and generally not going higher than [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 6. These ranks can be increased by spending [[Core Rules/Characters and Rolling/Character Sheet/Points\|Points]].
 
-Each rank not only represents the power level of something. But it also has an associated [[TTRPG Basics/Dice\|Die]] value as represented in the table below.
+Each [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] not only represents the power level of something. But it also has an associated [[TTRPG Basics/Dice\|Die]] value as represented in the table below.
 #### Rank Table:
 | Rank | Die | Average |
 | ---- | ---- | ---- |
@@ -20,7 +20,7 @@ Each rank not only represents the power level of something. But it also has an a
 | 10 | d20 | 11 |
 
 ## Ability Ranks
-All of the [[Core Rules/Characters and Rolling/Character Sheet/Abilities\|Abilities]] have a rank. This rank simply represents the [[TTRPG Basics/Dice\|Die]] value of that ability. For example, if a [[Core Rules/Characters and Rolling/Character\|Character]] has Agility at rank 3 then the [[TTRPG Basics/Dice\|Die]] value for Agility is a d6.
+All of the [[Core Rules/Characters and Rolling/Character Sheet/Abilities\|Abilities]] have a rank. This [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] simply represents the [[TTRPG Basics/Dice\|Die]] value of that ability. For example, if a [[Core Rules/Characters and Rolling/Character\|Character]] has Agility at [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 3 then the [[TTRPG Basics/Dice\|Die]] value for Agility is a d6.
 
 ## Skill Ranks
 Each [[Core Rules/Skills and Flaws/Skills\|Skill]] has an associated rank. While a [[Core Rules/Skills and Flaws/Skills\|Skill]] might use the [[TTRPG Basics/Dice\|Die]] value of the rank, most [[Core Rules/Skills and Flaws/Skills\|Skills]] do not.
@@ -32,4 +32,4 @@ Each type of [[Core Rules/Damage and Conditions/Damage\|Damage]] can have an ass
 Some [[Core Rules/Damage and Conditions/Conditions\|Conditions]] can have multiple ranks of that condition. Multiple ranks of a condition have stacking effects as described by the condition.
 
 ## Item Ranks WIP
-[[Core Rules/Items, Crafting, Inventory/Items\|Items]] can have ranks. An [[Core Rules/Items, Crafting, Inventory/Items\|Item]] can have a number of properties equal to the rank of the [[Core Rules/Items, Crafting, Inventory/Items\|Item]].
+[[Core Rules/Items, Crafting, Inventory/Items\|Items]] can have ranks. An [[Core Rules/Items, Crafting, Inventory/Items\|Item]] can have a number of properties equal to the [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] of the [[Core Rules/Items, Crafting, Inventory/Items\|Item]].
