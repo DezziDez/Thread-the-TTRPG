@@ -19,8 +19,8 @@ This is the conscious ability to think, keep sharp in complex situations, or to 
 This is the conscious will to live. The driving force in everyone to keep moving forward.
 
 ### Ranking Up Abilities
-Whenever a [[Core Rules/Characters and Rolling/Character\|Character]] spends [[Core Rules/Characters and Rolling/Character Sheet/Rank Points\|Rank Points]] during a [[Core Rules/Characters and Rolling/Resting#Full-Rest\|Full-Rest]] they may choose to rank up an ability instead of purchasing [[Core Rules/Skills and Flaws/Skills\|Skills]].
+Whenever a [[Core Rules/Characters and Rolling/Character\|Character]] spends [[Core Rules/Characters and Rolling/Character Sheet/Points\|Points]] during a [[Core Rules/Characters and Rolling/Resting#Full-Rest\|Full-Rest]] they may choose to [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] up an ability instead of purchasing [[Core Rules/Skills and Flaws/Skills\|Skills]].
 
-Abilities cost a number of [[Core Rules/Characters and Rolling/Character Sheet/Rank Points\|Rank Points]] equal to the rank being purchased. Abilities must be increased in [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Ranks]] in order.
+Abilities cost a number of [[Core Rules/Characters and Rolling/Character Sheet/Points\|Points]] equal to the [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] being purchased. Abilities must be increased in [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Ranks]] in order.
 
-For example, if a [[Core Rules/Characters and Rolling/Character\|Character]] wishes to increase Agility from rank 2 to rank 3, then that [[Core Rules/Characters and Rolling/Character\|Character]] must spend 3 rank points.
+For example, if a [[Core Rules/Characters and Rolling/Character\|Character]] wishes to increase Agility from [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 2 to [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 3, then that [[Core Rules/Characters and Rolling/Character\|Character]] must spend 3 .
