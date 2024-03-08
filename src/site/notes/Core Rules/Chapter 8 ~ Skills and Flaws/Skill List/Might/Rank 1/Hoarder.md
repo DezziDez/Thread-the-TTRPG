@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-You can store up to 12, 0 [[Core Rules/Chapter 5 ~ Items/Inventory and Carry Capacity/Slots\|slot]] sized [[Core Rules/Chapter 5 ~ Items/Items\|Items]] inside 1 [[Core Rules/Chapter 5 ~ Items/Inventory and Carry Capacity/Slots\|slot]] instead of 6.
+You can store up to 12, 0 [[Core Rules/Chapter 5 ~ Items and Crafting/Inventory and Carry Capacity/Slots\|slot]] sized [[Core Rules/Chapter 5 ~ Items and Crafting/Items\|Items]] inside 1 [[Core Rules/Chapter 5 ~ Items and Crafting/Inventory and Carry Capacity/Slots\|slot]] instead of 6.
