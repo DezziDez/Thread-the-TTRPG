@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/chapter-6-maps-and-areas/area-of-effect/"}
 ---
 
-Some [[Core Rules/Chapter 5 ~ Items/Items\|Item]] [[Core Rules/Chapter 5 ~ Items/Properties\|Properties]] or [[Core Rules/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] have areas of effect (AOE). These areas are defined as follows:
+Some [[Core Rules/Chapter 5 ~ Items and Crafting/Items\|Item]] [[Core Rules/Chapter 5 ~ Items and Crafting/Properties\|Properties]] or [[Core Rules/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] have areas of effect (AOE). These areas are defined as follows:
 ### Radius Sphere
 A Radius Sphere is a sphere or bubble that is defined by a center point and a radius (a radius being half the diameter, or the distance across the sphere).
 
@@ -14,7 +14,7 @@ This would create a sphere from a center point tile, that has 3 [[Core Rules/Cha
 ### Projected Line
 A Projected Line is a line with a distance from a chosen point and a radius of the line. The radius is defined from the center of the line because a projected line is really a cylinder.
 
-If the projected line starts at a character, The starting point would start inside of the [[Core Rules/Chapter 6 ~ Maps and Areas/Tiles\|tile]] the [[Core Rules/Chapter 3 ~ Characters/Character\|Character]] occupies.
+If the projected line starts at a character, The starting point would start inside of the [[Core Rules/Chapter 6 ~ Maps and Areas/Tiles\|tile]] the [[Core Rules/Chapter 3 ~ Character Basics/Character\|Character]] occupies.
 
 Example, "The laser beam has a projected line of 5 [[Core Rules/Chapter 6 ~ Maps and Areas/Tiles\|Tiles]] with a 1 tile radius."
 
