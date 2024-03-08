@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-You can treat a [[Core Rules/Chapter 5 ~ Items/Item Property Lists/Basic Properties/Weapon\|Weapon]] with the [[Core Rules/Chapter 5 ~ Items/Item Property Lists/Extra Properties/Weapon/Great\|Great]] property as a 2 [[Core Rules/Chapter 5 ~ Items/Inventory and Carry Capacity/Slots\|slot]] weapon instead of 3.
+You can treat a [[Core Rules/Chapter 5 ~ Items and Crafting/Item Property Lists/Basic Properties/Weapon\|Weapon]] with the [[Core Rules/Chapter 5 ~ Items and Crafting/Item Property Lists/Extra Properties/Weapon/Great\|Great]] property as a 2 [[Core Rules/Chapter 5 ~ Items and Crafting/Inventory and Carry Capacity/Slots\|slot]] weapon instead of 3.
