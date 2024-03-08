@@ -5,4 +5,4 @@
 Conflicts:
 
 Effects:
-You permanently lose an leg or anything used to move around. You no longer double your result when calculating your [[Core Rules/Chapter 3 ~ Characters/Speed\|Speed]].
+You permanently lose an leg or anything used to move around. You no longer double your result when calculating your [[Core Rules/Chapter 3 ~ Character Basics/Speed\|Speed]].
