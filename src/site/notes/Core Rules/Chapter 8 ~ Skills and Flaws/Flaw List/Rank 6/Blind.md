@@ -5,4 +5,4 @@
 Conflicts:
 
 Effects:
-You permanently have the [[Core Rules/Chapter 4 ~ Mechanics/Condition List/Blinded\|Blinded]] [[Core Rules/Chapter 4 ~ Mechanics/Conditions\|Condition]].
+You permanently have the [[Core Rules/Chapter 4 ~ General Mechanics/Condition List/Blinded\|Blinded]] [[Core Rules/Chapter 4 ~ General Mechanics/Conditions\|Condition]].
