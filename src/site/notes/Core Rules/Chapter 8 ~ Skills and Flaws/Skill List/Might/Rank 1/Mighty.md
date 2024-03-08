@@ -5,5 +5,5 @@
 Refresh: None
 
 Effects:
-Whenever you make a Might+Might [[Core Rules/Chapter 4 ~ Mechanics/Ability Checks\|ability check]] you gain a [[Core Rules/Chapter 4 ~ Mechanics/Boon and Bane\|Boon]].
+Whenever you make a Might+Might [[Core Rules/Chapter 4 ~ General Mechanics/Ability Checks\|ability check]] you gain a [[Core Rules/Chapter 4 ~ General Mechanics/Boon and Bane\|Boon]].
 
