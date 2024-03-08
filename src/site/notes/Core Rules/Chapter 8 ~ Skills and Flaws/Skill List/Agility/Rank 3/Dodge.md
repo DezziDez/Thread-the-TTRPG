@@ -5,7 +5,7 @@
 Refresh: None
 
 Effects:
-You gain access to the Dodge [[Core Rules/Chapter 7 ~ Events/Actions\|action]].
+You gain access to the Dodge [[Core Rules/Chapter 7 ~ Events and Actions/Actions\|action]].
 
 ###### Dodge (Stamina Cost: 3)
-The next time you would have taken [[Core Rules/Chapter 4 ~ Mechanics/Damage\|Damage]], you instead take 0 [[Core Rules/Chapter 4 ~ Mechanics/Damage\|Damage]].
+The next time you would have taken [[Core Rules/Chapter 4 ~ General Mechanics/Damage\|Damage]], you instead take 0 [[Core Rules/Chapter 4 ~ General Mechanics/Damage\|Damage]].
