@@ -5,4 +5,4 @@
 Refresh: None
 
 Effect:
-Whenever you take an [[Core Rules/Chapter 7 ~ Events/Actions\|Action]] you may choose to take 2 [[Core Rules/Chapter 7 ~ Events/Actions#Step\|steps]] instead of 1.
+Whenever you take an [[Core Rules/Chapter 7 ~ Events and Actions/Actions\|Action]] you may choose to take 2 [[Core Rules/Chapter 7 ~ Events and Actions/Actions#Step\|steps]] instead of 1.
