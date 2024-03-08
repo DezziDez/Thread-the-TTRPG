@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you roll for [[Core Rules/Chapter 4 ~ Mechanics/Resistances\|Resistances]] for [[Core Rules/Chapter 4 ~ Mechanics/Damage Types/Chemical\|Chemical]] [[Core Rules/Chapter 4 ~ Mechanics/Damage\|Damage]] you roll 2 [[Core Rules/Chapter 2 ~ Foundation/Dice\|Dice]] instead of 1.
+Whenever you roll for [[Core Rules/Chapter 4 ~ General Mechanics/Resistances\|Resistances]] for [[Core Rules/Chapter 4 ~ General Mechanics/Damage Types/Chemical\|Chemical]] [[Core Rules/Chapter 4 ~ General Mechanics/Damage\|Damage]] you roll 2 [[Core Rules/Chapter 2 ~ Foundation/Dice\|Dice]] instead of 1.
