@@ -5,4 +5,4 @@
 Refresh: None
 
 Effect:
-Whenever you make an [[Core Rules/Chapter 4 ~ Mechanics/Ability Checks\|Ability Check]] with Insight to deceive, Lie, or Trick another [[Core Rules/Chapter 3 ~ Characters/Character\|Character]] you gain a [[Core Rules/Chapter 4 ~ Mechanics/Boon and Bane\|Boon]]. 
+Whenever you make an [[Core Rules/Chapter 4 ~ General Mechanics/Ability Checks\|Ability Check]] with Insight to deceive, Lie, or Trick another [[Core Rules/Chapter 3 ~ Character Basics/Character\|Character]] you gain a [[Core Rules/Chapter 4 ~ General Mechanics/Boon and Bane\|Boon]]. 
