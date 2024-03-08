@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/core-rules/damage-and-conditions/resistances/"}
----
-
-Some [[Core Rules/Skills and Flaws/Skills\|Skills]] or [[Core Rules/Items, Crafting, Inventory/Items\|Items]] provide protection against certain kinds of [[Core Rules/Damage and Conditions/Damage\|Damage]]. For instance, Armor aids in resisting [[Core Rules/Damage and Conditions/Damage Types/Physical\|Physical]] [[Core Rules/Damage and Conditions/Damage\|Damage]]. The level of protection provided by the source is determined by its [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]]. When a [[Core Rules/Characters and Rolling/Character\|Character]] takes [[Core Rules/Damage and Conditions/Damage\|Damage]] they have a resistance to, they roll 1 [[TTRPG Basics/Dice\|Die]], according to the [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]], and subtract the rolled amount from the [[Core Rules/Damage and Conditions/Damage\|Damage]] taken.
-
-If a [[Core Rules/Characters and Rolling/Character\|Character]] possesses multiple sources of resistance to a specific type of [[Core Rules/Damage and Conditions/Damage\|Damage]], the [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] of protection increases by 1 from the highest ranking source. For example, a [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 2 and a [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 3 Resistance source would result in a [[Core Rules/Characters and Rolling/Character Sheet/Ranks\|Rank]] 4 Resistance.
