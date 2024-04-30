@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/chapter-1-thread/what-is-thread/","tags":["gardenEntry"]}
 ---
 
-Welcome!
-
+# Welcome to Thread!
 Thread is an [[Core Rules/Chapter 1 ~ Thread/Open Source\|open source]], rules light, fully modular, setting agnostic, table-top role playing system.
 
 Thread is designed with Creativity, Modularity, Emergence, and Simplicity in mind. Giving all the rules and mechanics and examples necessary to make your own worlds and ideas without limitations. Thread is a set of guide rails that can be changed and altered at any time for any reason. There is no right way to play Thread. Only the way that is the most fun for everyone.
