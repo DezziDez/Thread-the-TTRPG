@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you are carrying [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|Items]] or are [[Draft 2/Chapter 4 ~ General Mechanics/Mounts\|mounted]] by [[Character\|characters]] of at most 2 [[Draft 2/Chapter 6 ~ Maps and Areas/Sizes\|Sizes]] smaller than you, you can carry twice as much.
+Whenever you are carrying [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|Items]] or are [[Core Rules/Chapter 4 ~ Starting Mechanics/Mounts\|mounted]] by [[Character\|characters]] of at most 2 [[Draft 2/Chapter 6 ~ Maps and Areas/Sizes\|Sizes]] smaller than you, you can carry twice as much.
