@@ -7,4 +7,4 @@
 - You suffer 1 [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of the [[Draft 2/Chapter 4 ~ General Mechanics/Condition List/Slowed\|Slowed]] condition.
 
 ##### Note: 
-See the [[Draft 2/Chapter 7 ~ Events and Actions/Basic Actions/Move\|Move]] [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|action]] for removing Prone.
+See the [[Core Rules/Chapter 5 ~ Events and Actions/Basic Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]] for removing Prone.
