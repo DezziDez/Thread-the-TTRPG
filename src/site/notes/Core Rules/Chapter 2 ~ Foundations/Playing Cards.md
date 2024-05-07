@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/chapter-2-foundations/playing-cards/"}
 ---
 
-The vast majority of [[TTRPGs\|TTRPGs]] have some form of randomness in the system to give a sense of drama and tension. You can't always control your actions down to the exact detail. Sometimes, you just need to roll the dice. Or in this case, play your cards.
+The vast majority of [[Core Rules/Chapter 2 ~ Foundations/What is a TTRPG\|TTRPGs]] have some form of randomness in the system to give a sense of drama and tension. You can't always control your actions down to the exact detail. Sometimes, you just need to roll the dice. Or in this case, play your cards.
 
 In [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thread]], each [[Core Rules/Chapter 2 ~ Foundations/Players\|Player]] will use a [standard 52-card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck) of playing cards with the addition of 2 different jokers, often two different colors such as black and red.
 
