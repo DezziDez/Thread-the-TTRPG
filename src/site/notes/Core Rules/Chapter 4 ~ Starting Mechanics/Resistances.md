@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/core-rules/chapter-4-starting-mechanics/resistances/"}
+---
+
+Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] or [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|Items]] provide protection against certain kinds of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]]. For instance, Armor aids in resisting [[Physical\|Physical]] [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]]. The level of protection provided by the source is determined by its [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]]. When a Character takes [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] they have a resistance to, they roll 1 [[Dice\|Die]], according to the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]], and subtract the rolled amount from the [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] taken.
+
+If a Character possesses multiple sources of resistance to a specific type of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]], the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of protection increases by 1 from the highest ranking source. For example, a [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] 2 and a [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] 3 Resistance source would result in a [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] 4 Resistance.
