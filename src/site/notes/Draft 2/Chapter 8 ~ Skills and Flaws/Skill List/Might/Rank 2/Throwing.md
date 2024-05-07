@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you throw an item and that item hits a Character, you may deal an amount of [[Core Rules/Chapter 4 ~ Starting Mechanics/Damage\|Damage]] equal to a roll of you Might [[Dice\|Die]].
+Whenever you throw an item and that item hits a Character, you may deal an amount of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] equal to a roll of you Might [[Dice\|Die]].
