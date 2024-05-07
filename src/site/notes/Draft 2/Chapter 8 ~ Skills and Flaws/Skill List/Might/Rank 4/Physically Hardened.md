@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you roll for [[Draft 2/Chapter 4 ~ General Mechanics/Resistances\|Resistances]] for [[Core Rules/Chapter 4 ~ Starting Mechanics/Damage Types/Physical\|Physical]] [[Core Rules/Chapter 4 ~ Starting Mechanics/Damage\|Damage]] you roll 2 [[Dice\|Dice]] instead of 1.
+Whenever you roll for [[Core Rules/Chapter 4 ~ Starting Mechanics/Resistances\|Resistances]] for [[Physical\|Physical]] [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] you roll 2 [[Dice\|Dice]] instead of 1.
