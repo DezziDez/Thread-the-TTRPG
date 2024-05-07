@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/draft-2/chapter-7-events-and-actions/basic-actions/prepare/"}
+{"dg-publish":true,"permalink":"/core-rules/chapter-5-events-and-actions/basic-actions/prepare/"}
 ---
 
 ### Description
-Prepare is a strategistic [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|Action]] that allows for better [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] management. It also helps with setup and planning outside of normal turns.
+Prepare is a strategistic [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] that allows for better [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] management. It also helps with setup and planning outside of normal turns.
 
 #### When Used
 - The player must declare their next quick action.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/draft-2/chapter-7-events-and-actions/basic-actions/throw/"}
+{"dg-publish":true,"permalink":"/core-rules/chapter-5-events-and-actions/basic-actions/throw/"}
 ---
 
 ### Description
@@ -12,4 +12,4 @@ A Character takes an [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] thei
 - If the [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] is more than 2 slots, it can only travel 1 tile.
 
 ### Notes
-Throwing an [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] doesn't deal [[Core Rules/Chapter 4 ~ Starting Mechanics/Damage\|Damage]] normally unless it is otherwise stated in the [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] or with a [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|skill]]
+Throwing an [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] doesn't deal [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] normally unless it is otherwise stated in the [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] or with a [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|skill]]

@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Your [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost to use the [[Draft 2/Chapter 7 ~ Events and Actions/Basic Actions/Communicate\|Communicate]] [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|action]] is reduced by 1.
+Your [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost to use the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Communicate\|Communicate]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]] is reduced by 1.

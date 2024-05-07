@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/draft-2/chapter-7-events-and-actions/turns/"}
 ---
 
-A turn is a character's localized time bubble that allows them to perform [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|Actions]] and effect the [[Draft 2/Chapter 7 ~ Events and Actions/Events\|Event]].
+A turn is a character's localized time bubble that allows them to perform [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] and effect the [[Draft 2/Chapter 7 ~ Events and Actions/Events\|Event]].
 
 ## Turn Phases
 Turns are performed in phases that can be resolved quickly with practice.
@@ -13,7 +13,7 @@ Start of a Character's Turn:
 
 Middle of the Character's Turn:
 - Start the [[Draft 2/Chapter 9 ~ GM Tools/Turn Timer\|Turn Timer]].
-- The Character uses [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|Actions]] to effect the situation.
+- The Character uses [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] to effect the situation.
 
 End of the Character's Turn:
 - Stop the [[Draft 2/Chapter 9 ~ GM Tools/Turn Timer\|Turn Timer]].

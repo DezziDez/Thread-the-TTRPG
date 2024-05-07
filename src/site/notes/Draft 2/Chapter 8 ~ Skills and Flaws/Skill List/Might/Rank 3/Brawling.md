@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you use the [[Draft 2/Chapter 7 ~ Events and Actions/Basic Actions/Attack\|Attack]] [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|action]] without a weapon. You may roll the [[Dice\|Die]] for your Might [[Core Rules/Chapter 3 ~ The Basics/Aspects\|ability]] twice instead of once.
+Whenever you use the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Attack\|Attack]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]] without a weapon. You may roll the [[Dice\|Die]] for your Might [[Core Rules/Chapter 3 ~ The Basics/Aspects\|ability]] twice instead of once.

@@ -16,11 +16,7 @@ The value of the card as shown in [[Core Rules/Chapter 2 ~ Foundations/Playing C
 ## World
 A Check can be made against the environment or world. In this case, [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] determines the difficulty of the Check by choosing a fitting value to beat, generally between 1 and 13, though the number can be higher.
 ## Contests
-A Contest is a type of Check that occurs when two Characters are challenging each other. When there is a Contest, the two Characters draw cards in secret and reveal their cards simultaneously.
-## Suits
-There is a +1 bonus for whenever the card a Character uses for a check is the same suit as one of the [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]] used in the Check.
->[!Example]
-A **Body+Mind** Check where the last card drawn is a King of ♥. The value of that card would be 14 instead of 13.
+A Contest is a type of Check that occurs when two Characters are challenging each other. When there is a Contest, the two Characters draw cards in secret and reveal their cards simultaneously.2
 ## Jokers
 Whenever a [[Core Rules/Chapter 2 ~ Foundations/Playing Cards#Jokers\|Joker]] is drawn, the Character must stop drawing and use that card. The effects of Jokers on Checks are as follows:
 >+🃏:  Either use the previously drawn card or draw one more card if able, the value of that card is doubled. Likely causing the Check to succeed.

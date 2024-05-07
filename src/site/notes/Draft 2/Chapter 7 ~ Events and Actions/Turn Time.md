@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/draft-2/chapter-7-events-and-actions/turn-time/"}
 ---
 
-In [[Thread\|Thread]], there is a concept known as Turn Time. This is where most crucial time-sensitive [[Draft 2/Chapter 7 ~ Events and Actions/Actions\|Actions]] occur. Turn Time can be entered at any time by the [[GM\|GM]] declaring an [[Draft 2/Chapter 7 ~ Events and Actions/Events\|event]].
+In [[Thread\|Thread]], there is a concept known as Turn Time. This is where most crucial time-sensitive [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] occur. Turn Time can be entered at any time by the [[GM\|GM]] declaring an [[Draft 2/Chapter 7 ~ Events and Actions/Events\|event]].
 
 When an [[Draft 2/Chapter 7 ~ Events and Actions/Events\|event]] is declared time slows into [[Draft 2/Chapter 7 ~ Events and Actions/Turns\|Turns]] and [[Draft 2/Chapter 7 ~ Events and Actions/Rounds\|Rounds]]. All [[Players1\|Players1]] vote to decide which Character goes first. After that Character ends their turn, the [[Players1\|player]] or [[GM\|GM]] controlling that Character chooses which Character goes next. Each Character can only be given 1 turn each [[Draft 2/Chapter 7 ~ Events and Actions/Rounds\|Round]]. This then continues until all [[Character\|Characters]] in the [[Draft 2/Chapter 7 ~ Events and Actions/Events\|event]] have had 1 turn. 
 

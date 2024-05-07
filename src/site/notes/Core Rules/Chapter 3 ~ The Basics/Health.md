@@ -8,7 +8,7 @@ The maximum amount of Health a Character can have is represented by doubling the
 >[!Example]
 >A Character with a Body Aspect that has 3 Ranks, 3 + 3 = 6, gives that Character 6 Health.
 
-Health is reduced mainly when a Character takes [[Core Rules/Chapter 4 ~ Starting Mechanics/Damage\|Damage]]. This is generally avoided by consuming [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]].
+Health is reduced mainly when a Character takes [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]]. This is generally avoided by consuming [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]].
 ## The Edge
 The Edge refers to the line between life and death for a Character. This line is right when a Character reaches 0 Health.
 #### Over the Edge
