@@ -4,7 +4,7 @@
 
 Stamina in [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thread]] is the will and fight to survive. To push forward and take action. It is fuel and energy.
 
-The maximum amount of Stamina [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] can have is represented by doubling the number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in the [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit Aspect]].
+The maximum amount of Stamina [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] can have is represented by doubling the number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in their [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit Aspect]].
 >[!Example]
 >A Character with a Spirit Aspect that has 3 Ranks, 3 + 3 = 6, gives that Character 6 Stamina.
 
@@ -20,4 +20,4 @@ Some situations may require an immediate response from the Character, even outsi
 
 Any [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] may be used as a quick [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] and it is encouraged for [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] to be creative with how and when they spend their Stamina.
 ### Maximum Stamina
-A character's maximum Stamina may be decreased due to certain circumstances or [[Draft 2/Chapter 4 ~ General Mechanics/Conditions\|Conditions]]. Should a Character's maximum Stamina reach 0, that Character suffers the [[Draft 2/Chapter 4 ~ General Mechanics/Condition List/Unconscious\|Unconscious]] [[Draft 2/Chapter 4 ~ General Mechanics/Conditions\|Condition]]. If a Character regains maximum Stamina above 0, they no longer suffer the [[Draft 2/Chapter 4 ~ General Mechanics/Condition List/Unconscious\|Unconscious]] [[Draft 2/Chapter 4 ~ General Mechanics/Conditions\|Condition]]
+A character's maximum Stamina may be decreased due to certain circumstances or [[Core Rules/Chapter 4 ~ Starting Mechanics/Conditions\|Conditions]]. Should a Character's maximum Stamina reach 0, that Character suffers the [[Core Rules/Chapter 4 ~ Starting Mechanics/Condition List/WIP Unconscious\|WIP Unconscious]] [[Core Rules/Chapter 4 ~ Starting Mechanics/Conditions\|Condition]]. If a Character regains maximum Stamina above 0, they no longer suffer the [[Core Rules/Chapter 4 ~ Starting Mechanics/Condition List/WIP Unconscious\|WIP Unconscious]] [[Core Rules/Chapter 4 ~ Starting Mechanics/Conditions\|Condition]]
