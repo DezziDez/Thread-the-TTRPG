@@ -18,7 +18,7 @@ Thread is a series of rules and guidelines with no setting attached. This means 
 ## Simplicity in Emergence
 One of the core ideas of Thread is that the system should be as simple to understand and easy to pick up as possible. Minimal learning curve.
 
-However, there are many [[Core Rules/Chapter 2 ~ Foundations/The Needles\|The Needles]] that enjoy complexity and getting deep into the details. So, Thread splits the difference by using a emergence as a core feature of its mechanics.
+However, there are many [[Core Rules/Chapter 2 ~ Foundations/The Players\|The Players]] that enjoy complexity and getting deep into the details. So, Thread splits the difference by using a emergence as a core feature of its mechanics.
 
 Emergence is the concept in which complexity arises from a series of simplistic rules.
 

@@ -6,7 +6,7 @@ An event is anything that might need careful planning or swift [[Core Rules/Chap
 
 Common events are combat, timed challenges/puzzles, complex social encounters, or dangerous environments.
 ## Declaration
-An event can be declared by the [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] or [[Core Rules/Chapter 2 ~ Foundations/The Needles\|The Needles]] at any time for any reason.
+An event can be declared by the [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] or [[Core Rules/Chapter 2 ~ Foundations/The Players\|The Players]] at any time for any reason.
 # Rounds
 A Round is a period of 10 seconds that is broken up into [[Core Rules/Chapter 5 ~ Events and Actions/Turns\|Turns]] by the individual [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] in the Event.
 
