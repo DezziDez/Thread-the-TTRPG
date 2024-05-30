@@ -13,5 +13,5 @@ Whenever a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] uses the
 
 Fix bulk and sizes
 
-If the target is an object, the Character moves the Object 1 [[Draft 2/Chapter 6 ~ Maps and Areas/Steps\|Tile]] in any direction.
-If the target is another Character, the two Character must make a **Body**+**Body** check against each other. If the Character using the Manipulate Action succeeds, the other Character is moved 1 [[Draft 2/Chapter 6 ~ Maps and Areas/Steps\|Tile]] in any direction.
+If the target is an object, the Character moves the Object 1 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Tile]] in any direction.
+If the target is another Character, the two Character must make a **Body**+**Body** check against each other. If the Character using the Manipulate Action succeeds, the other Character is moved 1 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Tile]] in any direction.
