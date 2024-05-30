@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Your [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost to use the [[Core Rules/Chapter 5 ~ Events and Actions/Basic Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]] is reduced by 1.
+Your [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost to use the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]] is reduced by 1.
