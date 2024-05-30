@@ -5,5 +5,5 @@
 Refresh: None
 
 Effects:
-Whenever you make a Might+Might [[Ability Checks\|ability check]] you gain a [[Draft 2/Chapter 4 ~ General Mechanics/Boon and Bane\|Boon]].
+Whenever you make a Might+Might [[Ability Checks\|ability check]] you gain a [[Boons and Banes\|Boon]].
 
