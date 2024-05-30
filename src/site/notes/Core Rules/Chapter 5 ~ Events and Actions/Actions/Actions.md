@@ -8,7 +8,7 @@ All actions have an action type, all characters have a Basic action of every typ
 ## Burn
 When a Character performs any action, event outside of [[Core Rules/Chapter 5 ~ Events and Actions/Events\|Events]] unless otherwise specified, [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] must [[Core Rules/Chapter 3 ~ The Basics/The Deck and Discard#Burn\|Burn]] one card.
 ## Quick Step
-When a Character performs any action, unless otherwise specified, they are allowed to perform a Quick Step and move 1 [[Draft 2/Chapter 6 ~ Maps and Areas/Steps\|Step]] in any direction they can access before or after the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] itself.
+When a Character performs any action, unless otherwise specified, they are allowed to perform a Quick Step and move 1 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Step]] in any direction they can access before or after the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] itself.
 ## Stamina Cost
 All actions have a [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost. This cost represents how much energy it takes to use that action.
 
