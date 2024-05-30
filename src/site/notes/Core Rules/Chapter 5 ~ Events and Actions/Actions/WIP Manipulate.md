@@ -3,13 +3,13 @@
 ---
 
 ## Description
-Any [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] that move other [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] or Objects through the environment.
+Any [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] that move other [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] or [[Core Rules/Chapter 7 ~ Objects and Properties/Objects\|Objects]] through the environment.
 
 ## Basic Manipulation
 #### Stamina Cost
 Basic Manipulation costs 3 [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] to perform.
 #### Usage
-Whenever a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] uses the Manipulate [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]], they choose another Character or Object within [[Core Rules/Chapter 6 ~ Areas and Maps/Ranges\|Ranges]] that is no more than 1 [[Draft 2/Chapter 6 ~ Maps and Areas/Sizes\|Size]] smaller than themselves.
+Whenever a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] uses the Manipulate [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]], they choose another Character or Object within [[Core Rules/Chapter 6 ~ Areas and Maps/Ranges\|Ranges]] that is no more than 1 [[Core Rules/Chapter 6 ~ Areas and Maps/WIP Sizes\|Size]] smaller than themselves.
 
 Fix bulk and sizes
 

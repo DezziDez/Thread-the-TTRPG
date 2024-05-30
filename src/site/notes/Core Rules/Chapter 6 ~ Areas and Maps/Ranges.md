@@ -27,4 +27,4 @@ Away is any distance that is greater than 160 steps.
 # In Step
 In Step is when a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] or Object is 1-2 steps outside of a certain Range. Such as a Character being 1-2 steps away from being close. This primarily is used to know that a Character making a [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions#Quick Step\|Quick Step]] can get within range of the target.
 
-Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] may bridge this gap and allow Characters to target other Characters or Objects that are In Step.
+Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] may bridge this gap and allow Characters to target other Characters or [[Core Rules/Chapter 7 ~ Objects and Properties/Objects\|Objects]] that are In Step.
