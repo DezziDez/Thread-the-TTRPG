@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-You can attempt to act natural using the environment around you to make yourself [[Draft 2/Chapter 4 ~ General Mechanics/Hiding\|Hidden]] in plain sight.
+You can attempt to act natural using the environment around you to make yourself [[Core Rules/Chapter 4 ~ Starting Mechanics/Condition List/WIP Hidden\|Hidden]] in plain sight.
