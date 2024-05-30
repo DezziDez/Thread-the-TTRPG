@@ -6,18 +6,34 @@ A Check is whenever [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]
 
 A Check is performed by taking the [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]] and adding the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] of those Aspects together.
 
+[[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] making the Check may then draw a card from their [[Core Rules/Chapter 3 ~ The Basics/The Deck and Discard#Deck\|Deck]]. The value of the card as shown in [[Core Rules/Chapter 2 ~ Foundations/Randomness\|Randomness]] and value of the combined [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]] determines the success or failure of the Check. In the event of a tie, another card is drawn and is used to determine the check.
+
 >[!Example]
 A **Body+Mind** Check where Body has 2 Ranks and Mind has 3 Ranks would be 5.
-
-[[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] making the Check may then draw up to that many cards from their [[Core Rules/Chapter 3 ~ The Basics/The Deck and Discard#Deck\|Deck]]. The Character may stop drawing at any time up to the amount able. When the Character stops drawing, they must use that last card drawn for the Check. Placing all drawn Cards into their [[Core Rules/Chapter 3 ~ The Basics/The Deck and Discard#Discard\|Discard]] after the Check is over.
-
-The value of the card as shown in [[Core Rules/Chapter 2 ~ Foundations/Playing Cards\|Playing Cards]] determines the success or failure of the Check. In the event of a tie, use the card previously drawn, continuously, until there is an outcome. If there is no previous card, the value is considered to be 0.
-
+>A Jack of ♦ is drawn, which has a value of 11.
+>5 + 11 = 16
 ## World
-A Check can be made against the environment or world. In this case, [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] determines the difficulty of the Check by choosing a fitting value to beat, generally between 1 and 13, though the number can be higher.
+A Check can be made against the environment or world. In this case, [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] determines the difficulty of the Check by choosing a fitting value to beat. This can generally be thought in terms of Difficulty.
+
+When a check against the world is made, The Weaver may be asked the difficulty but not the value. This gives an idea of how hard the check might be but not an exact goal to hit.
+#### Difficulty
+
+| Rating  | Value | Description                                                        |
+| ------- | ----- | ------------------------------------------------------------------ |
+| Trivial | 2-5   | Something that can be failed but it would be unfortunate to do so. |
+| Easy    | 6-7   | Something that is a challenge but can usually be overcome.         |
+| Normal  | 8-10  | A normal challenge. Can go either way.                             |
+| Hard    | 11-15 | The peak of luck. Skill is definitely needed.                      |
+| Extreme | 16+   | Something that not even luck can help you succeed.                 |
+
 ## Contests
-A Contest is a type of Check that occurs when two Characters are challenging each other. When there is a Contest, the two Characters draw cards in secret and reveal their cards simultaneously.2
+A Contest is a type of Check that occurs when two Characters are challenging each other. The checks made can be the same check or different checks depending on the situation.
+
+Characters may make their checks in secret or make them public. There is strategy in both options.
 ## Jokers
-Whenever a [[Core Rules/Chapter 2 ~ Foundations/Playing Cards#Jokers\|Joker]] is drawn, the Character must stop drawing and use that card. The effects of Jokers on Checks are as follows:
->+🃏:  Either use the previously drawn card or draw one more card if able, the value of that card is doubled. Likely causing the Check to succeed.
+Whenever a [[Core Rules/Chapter 2 ~ Foundations/Randomness#Jokers\|Joker]] is drawn, the Character must stop drawing and use that card. The effects of Jokers on Checks are as follows:
+>+🃏: Draw an additional card, the value of that card is doubled.
 >-🃏: Draw no more cards, the Check fails.
+
+## Choose to Fail
+Characters can choose to fail any Check for any reason. Choosing to fail must be done before a Card is drawn. If a Character chooses to fail a check, they draw no cards and expend no resources.

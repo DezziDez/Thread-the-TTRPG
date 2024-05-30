@@ -5,4 +5,4 @@
 Conflicts:
 
 Effects:
-You permanently have the [[Draft 2/Chapter 4 ~ General Mechanics/Condition List/Blinded\|Blinded]] [[Draft 2/Chapter 4 ~ General Mechanics/Conditions\|Condition]].
+You permanently have the [[Blinded\|Blinded]] [[Core Rules/Chapter 4 ~ Starting Mechanics/Conditions\|Condition]].

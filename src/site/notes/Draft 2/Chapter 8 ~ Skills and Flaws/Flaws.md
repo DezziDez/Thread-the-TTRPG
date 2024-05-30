@@ -6,7 +6,7 @@
 Some characters may suffer flaws that make them weaker. Such has being blind or missing a limb. This often gives the characters something to overcome by finding away round their weakness and to add development to themselves.
 
 ## Flaws Ranks
-Whenever a character suffers a flaw, they gain [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] equal to the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of the flaw plus the number of flaws the character already has. Flaws are not categorized like [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]]. Rather they are grouped by [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] and can be gained at any time. Though, the [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] gained cannot be spent until the [[Character\|characters]] next [[Draft 2/Chapter 4 ~ General Mechanics/Resting#Full-Rest\|Full-Rest]] like normal.
+Whenever a character suffers a flaw, they gain [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] equal to the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of the flaw plus the number of flaws the character already has. Flaws are not categorized like [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]]. Rather they are grouped by [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] and can be gained at any time. Though, the [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] gained cannot be spent until the [[Character\|characters]] next [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]] like normal.
 
 ## Flaw Conflict
 Flaws often have conflicting [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] that oppose the flaw itself. In the case of a conflict between a flaw and a skill, there are some options.

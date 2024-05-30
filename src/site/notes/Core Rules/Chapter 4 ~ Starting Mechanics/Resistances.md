@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/core-rules/chapter-4-starting-mechanics/resistances/"}
 ---
 
-Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] or [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|Items]] provide protection against certain kinds of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]]. For instance, Armor aids in resisting [[Physical\|Physical]] [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]]. The level of protection provided by the source is determined by its [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]]. When a Character takes [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] they have a resistance to, they roll 1 [[Dice\|Die]], according to the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]], and subtract the rolled amount from the [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] taken.
+Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] or [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|Items]] provide protection against certain kinds of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]]. This is known as a source of Resistance.
+## Ranks
+A Character may have a number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] of Resistance to each [[Core Rules/Chapter 3 ~ The Basics/Damage#Damage Types\|Type]] of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]].
+For each Rank of Resistance, the amount of Damage taken by that type is reduced by 1.
 
-If a Character possesses multiple sources of resistance to a specific type of [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]], the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of protection increases by 1 from the highest ranking source. For example, a [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] 2 and a [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] 3 Resistance source would result in a [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] 4 Resistance.
+Sources of Resistance always add together linearly.
+
+>[!Example]
+>A Character with a Skill that grants 2 Ranks of Physical Resistance and Armor that grants 4 Ranks of Physical Resistance has 6 Physical Resistance total.

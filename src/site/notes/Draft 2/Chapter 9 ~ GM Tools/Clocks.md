@@ -9,4 +9,4 @@ Clocks are represented with circles split into even sections that shows the numb
 ![Pasted image 20240114202944.png](/img/user/Images/Pasted%20image%2020240114202944.png)
 ![Pasted image 20240114203045.png](/img/user/Images/Pasted%20image%2020240114203045.png)
 
-The reason to fill each section can be anything. Successful [[Ability Checks\|Ability Checks]], a number of [[Draft 2/Chapter 7 ~ Events and Actions/Rounds\|Rounds]] during [[Draft 2/Chapter 7 ~ Events and Actions/Events\|Events]]. A literal amount of real life time like minutes or hours. Anything the [[GM\|GM]] wants the time to represent it can represent and it is a great tool to represent to [[Players1\|Players1]] how long something is going to take.
+The reason to fill each section can be anything. Successful [[Ability Checks\|Ability Checks]], a number of [[Rounds\|Rounds]] during [[Core Rules/Chapter 5 ~ Events and Actions/Events\|Events]]. A literal amount of real life time like minutes or hours. Anything the [[GM\|GM]] wants the time to represent it can represent and it is a great tool to represent to [[Players1\|Players1]] how long something is going to take.

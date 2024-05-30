@@ -3,7 +3,7 @@
 ---
 
 Requirements: None
-Refresh: 1xInsight / [[Draft 2/Chapter 4 ~ General Mechanics/Resting#Break\|Break]]
+Refresh: 1xInsight / [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Break\|Break]]
 
 Effects:
-Whenever you use the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Communicate\|Communicate]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] on another Character you can speak with speed and befuddling words. The other Character becomes [[Draft 2/Chapter 4 ~ General Mechanics/Condition List/Confused\|Confused]] by this [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|skill]] until the end of their next turn.
+Whenever you use the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Communicate\|Communicate]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] on another Character you can speak with speed and befuddling words. The other Character becomes [[Confused\|Confused]] by this [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|skill]] until the end of their next turn.

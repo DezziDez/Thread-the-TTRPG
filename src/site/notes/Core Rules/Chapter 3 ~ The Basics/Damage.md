@@ -10,7 +10,7 @@ Damage is split into various types
 #### Chemical
 Chemical [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] type that is caused by anything that would be considered toxic or chemically damaging such as poisons, acids, bases, and radiation.
 #### Mental
-Mental [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] type that is caused by harming the minds of [[Character\|Characters]]. Whether it be with an extremely clever insult, torture, a challenging riddle, or generally any means that would cause harm to the psyche.
+Mental [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] type that is caused by harming the minds of [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]]. Whether it be with an extremely clever insult, torture, a challenging riddle, or generally any means that would cause harm to the psyche.
 #### Physical
 Physical [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] type that is the most common and easiest to perform. It is any [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] done physically to the body outside other means, crushing, cutting, piercing, etc... 
 #### Temperate

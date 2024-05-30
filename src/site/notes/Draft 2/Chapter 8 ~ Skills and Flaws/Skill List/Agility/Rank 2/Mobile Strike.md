@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you are taking the [[Core Rules/Chapter 5 ~ Events and Actions/Basic Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] you may take the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Attack\|Attack]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] without ending your [[Core Rules/Chapter 5 ~ Events and Actions/Basic Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]].
+Whenever you are taking the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] you may take the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Attack\|Attack]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] without ending your [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Move\|Move]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]].

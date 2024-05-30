@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/draft-2/chapter-8-skills-and-flaws/skill-list/will/rank-1/pause/"}
 ---
 
-Refresh: 1xWill / [[Draft 2/Chapter 4 ~ General Mechanics/Resting#Break\|Break]].
+Refresh: 1xWill / [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Break\|Break]].
 
 Effects:
 You gain access to the Pause [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]].

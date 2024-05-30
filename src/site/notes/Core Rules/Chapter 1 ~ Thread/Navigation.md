@@ -5,8 +5,6 @@
 Thread was designed inside a program called [Obsidian.](https://obsidian.md/)
 
 Obsidian is a piece of software that allows for non-linear navigation of the material using links to other pages. The entirety of [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thread]] is written in Markdown, which is a standardized text formatting language. This means that Thread can be downloaded and used in any software that can read Markdown functions, or even read directly using any word processor.
-
-In Thread, pages are linked together using Threads. These are breadcrumb trails that can be followed around the entirety of the system. These Threads can be followed at any time to reference a piece of information found in another location in the system.
 ## How to Navigate Thread
 Hovering over a link in [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thread]] allows you to see the linked content without directly navigating to it.
 

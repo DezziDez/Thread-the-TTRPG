@@ -5,4 +5,4 @@
 Refresh: None
 
 Effects:
-Whenever you are inside [[Draft 2/Chapter 6 ~ Maps and Areas/Lighting#Low\|Low Light]] or [[Draft 2/Chapter 6 ~ Maps and Areas/Lighting#Darkness\|Darkness]] you may attempt to [[Draft 2/Chapter 4 ~ General Mechanics/Hiding\|Hide]] and be hidden from other characters.
+Whenever you are inside [[Core Rules/Chapter 6 ~ Areas and Maps/Lighting#Low\|Low Light]] or [[Core Rules/Chapter 6 ~ Areas and Maps/Lighting#Darkness\|Darkness]] you may attempt to [[Core Rules/Chapter 4 ~ Starting Mechanics/Condition List/WIP Hidden\|Hide]] and be hidden from other characters.
