@@ -6,7 +6,7 @@ There are various Ranges in [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thre
 
 Distances greater than Away can easily be created for settings that might have weapons or situations that allows Characters to be targeted at extreme distances.
 ## Close, Rank 0
-Close Range is anything that is within direct reach of another [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]]. This is generally one or two [[Draft 2/Chapter 6 ~ Maps and Areas/Steps\|Steps]] away depending on the situation.
+Close Range is anything that is within direct reach of another [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]]. This is generally one or two [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Steps]] away depending on the situation.
 
 >[!Note]
 >One Step away would be directly next to the Character.
@@ -24,5 +24,7 @@ Very Distant is anything that is at most 160 steps away.
 ## Away, Rank 6
 Away is any distance that is greater than 160 steps.
 
-# Out of Step
-Out of Step is when a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] or Object is 1-2 steps outside of a certain Range. Such as a Character being 1-2 steps away from being close. Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] may bridge this gap and allow Characters to target other Characters or Objects that are Out of Step.
+# In Step
+In Step is when a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] or Object is 1-2 steps outside of a certain Range. Such as a Character being 1-2 steps away from being close. This primarily is used to know that a Character making a [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions#Quick Step\|Quick Step]] can get within range of the target.
+
+Some [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] may bridge this gap and allow Characters to target other Characters or Objects that are In Step.
