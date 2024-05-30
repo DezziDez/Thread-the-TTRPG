@@ -12,4 +12,4 @@ You can [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Move\|Move]] up to y
 
 If you were to collide with another Character that is no more than 1 [[Draft 2/Chapter 6 ~ Maps and Areas/Sizes\|size]] larger than you, you deal [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] equal to 1 roll of your Might and stop moving. 
 
-Additionally, the Character hit with your Charge is moved 1 [[Draft 2/Chapter 6 ~ Maps and Areas/Steps\|tile]] for every 2 [[Draft 2/Chapter 6 ~ Maps and Areas/Steps\|Steps]] you moved in the same direction.
+Additionally, the Character hit with your Charge is moved 1 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|tile]] for every 2 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Steps]] you moved in the same direction.
