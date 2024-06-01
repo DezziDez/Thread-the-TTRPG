@@ -8,5 +8,5 @@ Effects:
 You gain access to the Pause [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]].
 
 ###### Pause (Stamina Cost: 0)
-Your [[Core Rules/Chapter End ~ Weaver's Toolbox/Turn Timer\|Turn Timer]] is reset.
+Your [[Turn Timer\|Turn Timer]] is reset.
 Your next [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|action]] costs 1 less [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]].
