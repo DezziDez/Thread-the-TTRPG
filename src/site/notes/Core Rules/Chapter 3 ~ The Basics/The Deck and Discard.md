@@ -18,5 +18,5 @@ Burn is described as discarding one card from a Characters Deck.
 Characters are able to Insert cards back into their Deck after resting.
 #### Full-Rest
 After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]], the Character Inserts all cards from their Discard into their Deck.
-#### Half-Rest
-After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Half-Rest\|Half-Rest]], the Character inserts a number of cards equal to their [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit]] and [[Core Rules/Chapter 3 ~ The Basics/Aspects#♣ Luck\|Luck]].
+#### Partial-Rest
+After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Partial-Rest\|Partial-Rest]], the Character inserts a number of cards equal to their [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit]] and [[Core Rules/Chapter 3 ~ The Basics/Aspects#♣ Luck\|Luck]].

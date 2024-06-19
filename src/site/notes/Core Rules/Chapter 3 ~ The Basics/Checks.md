@@ -16,7 +16,7 @@ A **Body+Mind** Check where Body has 2 Ranks and Mind has 3 Ranks would be 5.
 A Check can be made against the environment or world. In this case, [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] determines the difficulty of the Check by choosing a fitting value to beat. This can generally be thought in terms of Difficulty.
 
 When a check against the world is made, The Weaver may be asked the difficulty but not the value. This gives an idea of how hard the check might be but not an exact goal to hit.
-#### Difficulty
+#### Difficulty Table
 
 | Rating  | Value | Description                                                        |
 | ------- | ----- | ------------------------------------------------------------------ |
@@ -37,3 +37,19 @@ Whenever a [[Core Rules/Chapter 2 ~ Foundations/Randomness#Jokers\|Joker]] is dr
 
 ## Choose to Fail
 Characters can choose to fail any Check for any reason. Choosing to fail must be done before a Card is drawn. If a Character chooses to fail a check, they draw no cards and expend no resources.
+
+## Combinations
+There are 10 combinations of Checks that can be made through the 4 [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]]:
+
+| Combination   | Description |
+| ------------- | ----------- |
+| Body+Body     |             |
+| Body+Mind     |             |
+| Body+Spirit   |             |
+| Body+Luck     |             |
+| Mind+Mind     |             |
+| Mind+Spirit   |             |
+| Mind+Luck     |             |
+| Spirit+Spirit |             |
+| Spirit+Luck   |             |
+| Luck+Luck     |             |

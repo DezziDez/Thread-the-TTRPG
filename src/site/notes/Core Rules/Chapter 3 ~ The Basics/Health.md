@@ -21,5 +21,5 @@ Once a Character has more negative Health than their maximum Health, they are De
 Whenever [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting\|Rests]] they regain some amount of Health.
 #### Full-Rest
 After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]], the Character regains an amount of missing Health equal to their [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in their [[Core Rules/Chapter 3 ~ The Basics/Aspects#♥ Body\|Body Aspect]].
-#### Half-Rest
-After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Half-Rest\|Half-Rest]], the Character regains 1 missing Health.
+#### Partial-Rest
+After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Partial-Rest\|Partial-Rest]], the Character regains 1 missing Health.

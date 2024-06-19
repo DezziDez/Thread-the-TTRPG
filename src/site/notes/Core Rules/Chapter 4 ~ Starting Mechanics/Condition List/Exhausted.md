@@ -14,4 +14,4 @@ Exhaustion is a long term drain on the entirety of a [[Core Rules/Chapter 2 ~ Fo
 - All Actions [[Core Rules/Chapter 3 ~ The Basics/The Deck and Discard#Burn\|Burn]] 1 additional card.
 ## Resting
 - Taking a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]] removes 2 [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] of Exhausted.
-- Taking a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Half-Rest\|Half-Rest]] removes 1 [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of Exhausted.
+- Taking a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Partial-Rest\|Partial-Rest]] removes 1 [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] of Exhausted.

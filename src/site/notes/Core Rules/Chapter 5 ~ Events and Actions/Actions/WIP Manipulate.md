@@ -3,7 +3,7 @@
 ---
 
 ## Description
-Any [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] that move other [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] or [[Core Rules/Chapter 7 ~ Objects and Properties/Objects\|Objects]] through the environment.
+Any [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] that move other [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] or [[Core Rules/Chapter 7 ~ Objects and Inventory/Objects\|Objects]] through the environment.
 
 ## Basic Manipulation
 #### Stamina Cost
