@@ -1,8 +1,0 @@
----
-{"dg-publish":true,"permalink":"/draft-2/chapter-8-skills-and-flaws/skill-list/might/rank-4/beast-of-burden/"}
----
-
-Refresh: None
-
-Effects:
-Whenever you are carrying [[Items\|Items]] or are [[Core Rules/Chapter 4 ~ Starting Mechanics/WIP Mounts\|mounted]] by [[Character\|characters]] of at most 2 [[Core Rules/Chapter 6 ~ Areas and Maps/Sizes\|Sizes]] smaller than you, you can carry twice as much.
