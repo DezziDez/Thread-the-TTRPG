@@ -5,11 +5,8 @@
 ## Rest Definition
 A period of light activity, called a Rest, is used by [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] to regain energy and wits. During this time, a Character can perform low-stress activities like crafting or bartering but not high-stress ones like combat or intense mental tasks.
 
-There are three types of rests: Full-Rest, Half-Rest, and a Break. 
-
-### Full-Rest
+There are two types of rests:
+#### Full-Rest
 A Full-Rest takes a full day, (usually 24 hours)
-### Half-Rest
-A Half-Rest, takes at least 6 hours.
-### Break
-A Break, taking at least one hour.
+#### Partial-Rest
+A Partial-Rest, takes at least 6 hours.

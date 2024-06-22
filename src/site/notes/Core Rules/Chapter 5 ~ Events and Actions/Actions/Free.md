@@ -6,11 +6,11 @@
 Free [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] are any small and fast action that still has some significance. 
 
 >[!Examples]
->- [[Draft 2/Chapter 5 ~ Items and Crafting/Inventory and Carry Capacity/Equipped\|Equipping]] or Unequipping an [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|Item]].
+>- [[Equipped\|Equipping]] or Unequipping an [[Items\|Item]].
 >- Studying another Character to gain information.
 >- Taking a [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions#Step\|Step]]. (This also triggers a Step allowing you to move 2 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Steps]] total)
->- Using an [[Draft 2/Chapter 5 ~ Items and Crafting/Items\|item]] or object in the environment or that is [[Draft 2/Chapter 5 ~ Items and Crafting/Inventory and Carry Capacity/Equipped\|Equipped]].
->- Reloading a ranged [[Draft 2/Chapter 5 ~ Items and Crafting/Item Property Lists/Basic Properties/Weapon\|Weapon]].
+>- Using an [[Items\|item]] or object in the environment or that is [[Equipped\|Equipped]].
+>- Reloading a ranged [[Weapon\|Weapon]].
 >- A quick shout to another Character.
 
 ## Basic Free
