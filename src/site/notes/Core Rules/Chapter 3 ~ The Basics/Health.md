@@ -14,7 +14,7 @@ The Edge refers to the line between life and death for a Character. This line is
 #### Over the Edge
 Whenever a Character reaches 0 Health and would be brought below 0, they are Over the Edge and have negative Health. The Over the Edge Character has their maximum [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] reduced for every point of negative health they suffer.
 
-At the beginning of a Character's [[Core Rules/Chapter 5 ~ Events and Actions/Turns\|Turn]] that is Over the Edge, they lose another Health. Furthering their state.
+At the beginning of a Character's [[Core Rules/Chapter 5 ~ Events and Actions/Turns\|Turn]] that is Over the Edge, they lose another Health falling further into the negative.
 ##### Death
 Once a Character has more negative Health than their maximum Health, they are Dead.
 ## Resting

@@ -10,5 +10,5 @@ When a Character performs any action, even outside [[Core Rules/Chapter 5 ~ Even
 ## Quick Step
 When a Character performs any action, unless otherwise specified, they are allowed to perform a Quick Step and move 1 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Step]] in any direction they can access before or after the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]] itself.
 ## Stamina Cost
-All actions have a [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost. This cost represents how much energy it takes to use that action.
+All actions have a [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] cost. This cost represents how much energy it takes to use that action. An action cannot cost less than 1 Stamina unless **explicitly** stated otherwise.
 

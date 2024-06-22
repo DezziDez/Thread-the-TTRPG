@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/core-rules/chapter-7-objects-and-inventory/properties/"}
 ---
 
-A property describes the functions and basics of an [[Items\|Item]]. All [[Items\|Items]] have a basic property that describes the foundation of the [[Items\|Item]] and extra properties that add new functions to the item beyond the basic property.
+Properties describe how [[Core Rules/Chapter 7 ~ Objects and Inventory/Objects\|Objects]] function within the world and [[Core Rules/Chapter 2 ~ Foundations/Setting\|Setting]] they are in. All Objects have Properties.
+## Object Ranks
+As an Object gains Properties it also gains [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]]. Generally, Objects with higher Ranks are more effective than Objects with lower Ranks.
 
-## Natures
-The nature of a property is what the property most resembles in the item itself, how it functions, and what flavor its given.
-
-This Nature can be referenced in certain skills or other Properties.
-
-The Nature of the [[Items\|Item]] is determined when the [[Items\|Item]] is [[Core Rules/Chapter 7 ~ Objects and Inventory/Crafting\|Crafted]].
+An Object has a number of Ranks for every Property it has.
+## Synergies
+Some Properties actively boost other properties or are only effective if it has a certain property. While there is no hard restriction on what properties an Object can have, there are soft restrictions within the properties themselves that may make combining them ineffective.

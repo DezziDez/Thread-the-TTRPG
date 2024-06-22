@@ -3,7 +3,7 @@
 ---
 
 ## Description
-Exhaustion is a long term drain on the entirety of a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]].
+To be extremely tired and have a long term drain on the entirety of a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]].
 ## Effects
 - Your maximum [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] is reduced by 1.
 - All Checks [[Core Rules/Chapter 3 ~ The Basics/The Deck and Discard#Burn\|Burn]] 1 card.
