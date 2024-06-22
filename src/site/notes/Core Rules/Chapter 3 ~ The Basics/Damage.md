@@ -15,3 +15,5 @@ Mental [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Ch
 Physical [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] type that is the most common and easiest to perform. It is any [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] done physically to the body outside other means, crushing, cutting, piercing, etc... 
 #### Temperate
 Temperate [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] is a [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]] type that is caused by changes in temperature. Fire and Ice. Hot and Cold.
+## Unavoidable Damage
+Unavoidable Damage is Damage that cannot be reduced by consuming [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]]. Unavoidable Damage is still reduced by [[Core Rules/Chapter 4 ~ Starting Mechanics/Resistances\|Resistances]].
