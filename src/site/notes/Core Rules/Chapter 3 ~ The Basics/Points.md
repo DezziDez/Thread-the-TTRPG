@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/core-rules/chapter-3-the-basics/points/"}
 ---
 
-Points are the representation of power, progression, and skill for any character. They are used to increase the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] of [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]] or to purchase new [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] during a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]].
+Points are the representation of power, progression, and skill for any character. They are used to increase the [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] of [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]] or to purchase new [[Core Rules/Chapter 8 ~ Perks, Flaws, and Points/Perks\|Perks]] during a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]].
 ## Unspent Points
 A Character gains Unspent Points from moving the plot forward, participating in large events, or from training.
 

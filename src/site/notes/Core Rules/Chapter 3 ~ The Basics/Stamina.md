@@ -4,7 +4,7 @@
 
 Stamina in [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thread]] is the will and fight to survive. To push forward and take action. It is fuel and energy.
 
-The maximum amount of Stamina [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] can have is represented by doubling the number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in their [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit Aspect]].
+The maximum amount of Stamina [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] can have is represented by doubling the number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in their [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit Aspect]]. If a Character has 0 Ranks in their Spirit Aspect, then their Stamina is 1.
 >[!Example]
 >A Character with a Spirit Aspect that has 3 Ranks, 3 + 3 = 6, gives that Character 6 Stamina.
 

@@ -7,9 +7,9 @@ Any [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] that 
 
 ## Basic Manipulation
 #### Stamina Cost
-Basic Manipulation costs 3 [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] to perform.
+Basic Manipulation costs 1 [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] to perform.
 #### Usage
-Whenever a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] uses the Manipulate [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]], they choose another Character or Object within [[Core Rules/Chapter 6 ~ Areas and Maps/Ranges\|Ranges]] that is no more than 1 [[Core Rules/Chapter 6 ~ Areas and Maps/WIP Sizes\|Size]] smaller than themselves.
+Whenever a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] uses the Manipulate [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]], they choose another Character or Object within [[Core Rules/Chapter 6 ~ Areas and Maps/Ranges\|Ranges]] that is no more than 1 [[Core Rules/Chapter 6 ~ Areas and Maps/Sizes\|Size]] smaller than themselves.
 
 Fix bulk and sizes
 

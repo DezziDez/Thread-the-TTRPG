@@ -5,8 +5,8 @@
 Refresh: None
 
 Effects:
-Your [[Core Rules/Chapter 3 ~ The Basics/Speed\|Speed]] is increased by 2 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Steps]].
+Your [[Speed\|Speed]] is increased by 2 [[Core Rules/Chapter 6 ~ Areas and Maps/Steps\|Steps]].
 This skill can be upgraded.
 
 Upgrade:
-Your [[Core Rules/Chapter 3 ~ The Basics/Speed\|Speed]] is increased by 2 for each additional [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]].
+Your [[Speed\|Speed]] is increased by 2 for each additional [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]].

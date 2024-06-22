@@ -14,7 +14,7 @@ The Spirit is the feelings and will of [[Core Rules/Chapter 2 ~ Foundations/Char
 ## ♣ Luck
 Luck is a special Aspect. When all else fails, Luck is all [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] may have left on their side. This Aspect represents a Character's ability to do things where everything falls into place.
 # Ranking Up Aspects
-Whenever a Character spends [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] during a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]] they may choose to [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] up an ability instead of purchasing [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]].
+Whenever a Character spends [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] during a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]] they may choose to [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] up an ability instead of purchasing [[Core Rules/Chapter 8 ~ Perks, Flaws, and Points/Perks\|Perks]].
 
 Increasing the Rank of an Aspect costs as many [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] as the Rank increase.
 

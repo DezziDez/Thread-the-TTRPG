@@ -20,11 +20,11 @@ When a check against the world is made, The Weaver may be asked the difficulty b
 
 | Rating  | Value | Description                                                        |
 | ------- | ----- | ------------------------------------------------------------------ |
-| Trivial | 2-5   | Something that can be failed but it would be unfortunate to do so. |
-| Easy    | 6-7   | Something that is a challenge but can usually be overcome.         |
+| Trivial | 2-4   | Something that can be failed but it would be unfortunate to do so. |
+| Easy    | 5-7   | Something that is a challenge but can usually be overcome.         |
 | Normal  | 8-10  | A normal challenge. Can go either way.                             |
-| Hard    | 11-15 | The peak of luck. Skill is definitely needed.                      |
-| Extreme | 16+   | Something that not even luck can help you succeed.                 |
+| Hard    | 11-13 | The peak of luck. Skill is definitely needed.                      |
+| Extreme | 14+   | Something that not even luck can help you succeed.                 |
 
 ## Contests
 A Contest is a type of Check that occurs when two Characters are challenging each other. The checks made can be the same check or different checks depending on the situation.

@@ -4,7 +4,7 @@
 
 Health in [[Core Rules/Chapter 1 ~ Thread/What is Thread\|Thread]] is what keep all [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] alive. It is life force and will to live.
 
-The maximum amount of Health a Character can have is represented by doubling the number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in their [[Core Rules/Chapter 3 ~ The Basics/Aspects#♥ Body\|Body Aspect]].
+The maximum amount of Health a Character can have is represented by doubling the number of [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in their [[Core Rules/Chapter 3 ~ The Basics/Aspects#♥ Body\|Body Aspect]]. If a Character has 0 Ranks in their Body Aspect, then their Health is 1.
 >[!Example]
 >A Character with a Body Aspect that has 3 Ranks, 3 + 3 = 6, gives that Character 6 Health.
 

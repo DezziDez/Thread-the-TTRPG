@@ -5,7 +5,7 @@
 ## Deck
 All [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] possess a Deck of [[Core Rules/Chapter 2 ~ Foundations/Randomness\|Cards]]. This Deck of cards represents the Character's long term energy and luck.
 
-Cards can be drawn from the Deck for [[Draft 2/Chapter 8 ~ Skills and Flaws/Skills\|Skills]] or [[Core Rules/Chapter 3 ~ The Basics/Checks\|Checks]]. Once drawn, a card is placed into the Discard.
+Cards can be drawn from the Deck for [[Core Rules/Chapter 8 ~ Perks, Flaws, and Points/Perks\|Perks]] or [[Core Rules/Chapter 3 ~ The Basics/Checks\|Checks]]. Once drawn, a card is placed into the Discard.
 
 Once a Character is out of [[Core Rules/Chapter 2 ~ Foundations/Randomness\|Cards]] in their Deck. They automatically fail any Checks and cannot use Skills that require the Character to draw any cards.
 ## Discard
