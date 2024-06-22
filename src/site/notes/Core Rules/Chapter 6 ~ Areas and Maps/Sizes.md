@@ -9,7 +9,7 @@ These sizes can scale up or down infinitely. But are generally rounded to their 
 
 | Number of Steps | Size   |
 | --------------- | ------ |
-| <0.5            | Minute |
+| <0.25           | Minute |
 | 0.5             | Tiny   |
 | 1               | Small  |
 | 2               | Medium |

@@ -8,7 +8,7 @@ An Object or Character's size doubles in Bulk for every increase in size.
 
 | Steps | Size   | Bulk |
 | ----- | ------ | ---- |
-| <0.5  | Minute | 0.25 |
+| <0.25 | Minute | 0.25 |
 | 0.5   | Tiny   | 0.5  |
 | 1     | Small  | 1    |
 | 2     | Medium | 4    |
