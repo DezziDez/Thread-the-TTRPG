@@ -8,7 +8,7 @@ Perks are the primary access to power, skill, and ability in [[Core Rules/Chapte
 Whenever a [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] takes a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]], that Character may spend [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] on Perks.
 
 Every Perk has a list of [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspects]] that must be of the specified [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] in order for the [[Core Rules/Chapter 2 ~ Foundations/Characters\|Character]] to purchase the Perk. The Aspect with the highest value is the cost of the Perk itself. 
-In order to purchase the Perk, the Character must spend that many number of [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]].
+In order to purchase the Perk, the Character must spend that many [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]].
 ## Perk Categories
 Every Perk is sorted into three categories. Trait, Active, and Passive.
 #### Trait
