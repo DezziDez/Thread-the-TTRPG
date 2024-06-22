@@ -12,7 +12,7 @@ In order to purchase the Perk, the Character must spend that many number of [[Co
 ## Perk Categories
 Every Perk is sorted into three categories. Trait, Active, and Passive.
 #### Trait
-A Trait is a type of Perk that is innate or park of a Character. Generally, Traits only able to be chosen during [[Core Rules/Chapter 9 ~ Beginning/Character Creation\|Character Creation]].
+A Trait is a type of Perk that is innate or part of a Character. Generally, Traits only able to be chosen during [[Core Rules/Chapter 9 ~ Beginning/Character Creation\|Character Creation]].
 >[!Examples]
 >Claws, Visions, Number of Limbs, Base [[Core Rules/Chapter 6 ~ Areas and Maps/Sizes\|Size]], and Wings
 #### Active
@@ -20,4 +20,4 @@ An Active Perk is a type of Perk that must be intentionally used by the Characte
 #### Passive
 A Passive Perk is a type of Perk that happens automatically or has some kind of constant use. These Perks are general buffs to the Character or are triggered on their own in some way.
 ## Upgrades
-Some Perks may be able to be upgraded over time. A Perk that can be upgraded usually has a greater Aspect requirement. Upgrading a Perk only costs a number of [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] equal to the [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspect]] [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] **Increase** not the total Aspect Rank.
+Some Perks may be able to be upgraded over time. A Perk that can be upgraded usually has a greater Aspect requirement. Upgrading a Perk only costs a number of [[Core Rules/Chapter 3 ~ The Basics/Points\|Points]] equal to the [[Core Rules/Chapter 3 ~ The Basics/Aspects\|Aspect]] [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Rank]] **Increase,** not the total Aspect Rank.

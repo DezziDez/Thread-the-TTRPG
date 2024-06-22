@@ -9,7 +9,7 @@ You [[Core Rules/Chapter 4 ~ Starting Mechanics/Falling\|Fall]] to the ground.
 You drop any [[Core Rules/Chapter 7 ~ Objects and Inventory/Inventory#Held Objects\|Held Objects]].
 You are unaware of your surroundings.
 You can't move, speak, or interact with the world.
-You cannot use [[Core Rules/Chapter 3 ~ The Basics/Stamina\|Stamina]] to avoid [[Core Rules/Chapter 3 ~ The Basics/Damage\|Damage]].
+Damage you take is [[Core Rules/Chapter 3 ~ The Basics/Damage#Unavoidable Damage\|Unavoidable]].
 ## Ending Condition
 You can be woken up by another Character using the [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Help#Basic Help\|Basic Help]] [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Action]].
 ## Additional Ranks
