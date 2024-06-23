@@ -20,6 +20,8 @@ Characters are able to insert cards back into their Deck after resting.
 After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Full-Rest\|Full-Rest]], the Character Inserts all cards from their Discard into their Deck.
 #### Partial-Rest
 After completing a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting#Partial-Rest\|Partial-Rest]], the Character inserts a number of cards equal to their [[Core Rules/Chapter 3 ~ The Basics/Ranks\|Ranks]] in [[Core Rules/Chapter 3 ~ The Basics/Aspects#♠ Spirit\|Spirit]] and [[Core Rules/Chapter 3 ~ The Basics/Aspects#♣ Luck\|Luck]].
+#### Rest Burn
+Whenever a Character chooses to take [[Core Rules/Chapter 5 ~ Events and Actions/Actions/Actions\|Actions]] or performs [[Core Rules/Chapter 3 ~ The Basics/Checks\|Checks]] that Burns a card during a [[Core Rules/Chapter 4 ~ Starting Mechanics/Resting\|Rest]], then the cards burned would not be restored at the end of the rest.
 
 # The Weaver's Bottomless Deck
 [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] uses a different kind of deck to represent all [[Core Rules/Chapter 2 ~ Foundations/Characters\|Characters]] not controlled by [[Core Rules/Chapter 2 ~ Foundations/The Players\|The Players]]. Whenever [[Core Rules/Chapter 2 ~ Foundations/The Weaver\|The Weaver]] needs to Burn card for another Character, The Weaver may place the card at the bottom of the deck instead of a Discard. The Weaver shuffles this deck every so often to ensure there is no repetition.
